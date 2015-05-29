@@ -1,0 +1,3290 @@
+Hello, and welcome to my very first FAQ.
+
+Dark souls is, at first, a difficult game, but after you've been through it for
+two or three times and know enemy attack patterns, enemy placement and what
+gear and build suits you. you'll find it's not that bad.
+
+That's what this FAQ is about, help new players get through it and help 
+advanced players with getting those last few trophies for platinum.
+
+This guide is written with getting the platinum trophy in mind, without ever 
+going online since it's very possible, yet time consuming to do so.
+
+The online aspect of the game however, is pretty big and really worth your time
+if you are willing to invest in it.
+
+Alright, enough of my ranting, let's go!
+
+++++Copyright++++
+
+This FAQ is property of me, Marcel van den Ham, and may be not be reproduced
+in part or as a whole under any circumstances except for personal, private use.
+It may not be placed on any web site other than the sites listed below or other
+wise distributed publicly without advance written permission. Use of this guide
+on any other web site or as a part of any public display is strictly 
+prohibited, and a violation of copyright.
+
+Sites allowed to place this guide
+-Gamefaqs.com
+-Neoseeker.com
+-Supercheats.com
+-Cheathappens.com
+-Chaptercheats.coms
+
+
+++++Table of contents++++
+
+-Introduction...........................[intro1]
+-copyright
+-Gemeral Tips...........................[genti1]
+-Character Build........................[chabu1]
+-Walktrough
+-Undead Asylum..........................[undas1]
+-Firelink Shrine........................[firsh1]
+-Undead Burg............................[undbu1]
+-Undead Parish..........................[undpa1]
+-Darkroot Garden........................[darga1]
+-Undead Parish..........................[undpa2]
+-Firelink Shrine........................[firsh2]
+-Undead Burg............................[undbu2]
+-Depths.................................[depth1]
+-Firelink Shrine........................[firsh3]
+-Undead Parish..........................[undpa3]
+-Undead Burg............................[undbu3]
+-Blighttown.............................[bligh1]
+-The Great Hollow.......................[greho1]
+-Ash Lake...............................[ashla1]
+-Blighttown.............................[bligh2]
+-Quelaag's Domain.......................[quedo1]
+-Demon Ruins............................[demru1]
+-Firelink Shrine........................[firsh4]
+-Sen's Fortress.........................[senfo1]
+-Anor Londo.............................[anolo1]
+-Firelink Shrine........................[firsh5]
+-Undead Asylum..........................[undas2]
+-Anor Londo.............................[anolo2]
+-The Painted World of Ariamis...........[paiar1]
+-Darkroot Garden........................[darga2]
+-Undead Burg............................[undbu4]
+-Darkroot Basin.........................[darba1]
+-Valley of Drakes.......................[valdr1]
+-New Londo Ruins........................[nelor1]
+-The Catacombs..........................[thcat1]
+-Tomb of the Giants.....................[tomgi1]
+-Anor Londo.............................[anolo3]
+-The Duke's Archives....................[dukar1]
+-Crystal cave...........................[cryca1]
+-Demon Ruins............................[demru2]
+-Lost Izalith...........................[losiz1]
+-Kiln of the First Flame................[kifif1]
+-Before we face Gwyn....................[befag1]
+-What's next............................[whane1]
+-Artorias of the Abyss DLC
+-Sanctuary Garden.......................[sanga1]
+-Oolacile Sanctuary.....................[oolsa1]
+-Royal Wood.............................[roywo1]
+-Oolacile Township......................[oolto1]
+-Chasm of the Abyss.....................[chaab1]
+-PVP in a nutshell......................[pvpnu1]
+-Boss Strategies........................[bosst1]
+-Boss Video Guide.......................[bvigu1]
+-Covenants..............................[cvnts1]
+-Pyromancies............................[prmns1]
+-Sorceries..............................[srcrs1]
+-Miracles...............................[mrcrs1]
+-Trophy Information.....................[troin1]
+-Frequently Asked Questions.............[frasq1]
+-Version History........................[verhi1]
+-Special Thanks.........................[speth1]
+-Contact................................[cntct1]
+
+++++General Tips++++[genti1]
+
+-Don't rush into battle, most enemies, even the early ones can easily kill you 
+if you're not carefull. Just wait for them to attack and either block and 
+counter or walk behind them and backstab.
+
+-Don't try to fight groups of enemies, lure them out 1 by 1 with your bow and 
+then kill them.
+
+-Be patient, sometimes enemies will try to bait you in doing attacks to block 
+and counter, don't fall for it.
+
+- Watch enemy movements, nearly any attack that any enemy can throw at you has 
+an obvious tell. Learn them and react accordingly.
+
+-Don't overlevel yourself. Off course it seems easy to just go farm for hours 
+on end and kill everything with ease, but in the long run you'll just make it 
+harder on yourself, because in NG+,enemies become harder then they were in your
+first run. The higher your level, the harder it gets to gain more levels, this
+game is more about skill than your level anyway.
+
+++++Character build++++[chabu1]
+
+
+For the purpose of this guide we will be using a Pyromancer as base character, 
+because they start out at level 1 with decent stats all-round and a powerfull 
+spell.
+
+We'll be turning our pyro into a dexterity based melee/ranged character 
+troughout the game, because attack speed is more important than strength in 
+this game, and it's always helpfull to be proficient with a bow.
+
+Also pyromancies are not scaled with intelligence, but only with the level of 
+your flame.
+
+Order of levelling:
+
+Get your dex. up to 12 for the shortbow.
+Get your strength up to 16 for the drake sword.
+Get your dex. up to 14 for the longbow.
+Get your vitality and endurance up about 10 points each.
+
+Afterward, divide levels at about 2 points dex to 1 point str., vit, and end., 
+keeping in mind that at some point, NG+ or NG++, we will need 25(!) faith to 
+join the Warrior of sunlight covenant to get the miracles lightning spear, 
+great lightning spear and sunlight spear,
+
+It also helps to invest some points in int. to 15 or so early game to be able 
+to learn logan's spells. Another thing to keep in mind is that you may want to
+get your faith up to 18 early on, so you can use homeward.
+
+I never really use the souls you find to gain levels, but only at shops, 
+because there are plenty opportunities to grind souls for levelling, which will 
+be mentioned in the walkthrough, and I don't like going back and forth between 
+shop and grinding area just to buy something.
+
+Also in your first game NEVER EVER use boss souls to get souls as you need all 
+of them at least once to create a weapon or shield.
+In NG+ you can use some of them, in NG++ you can use all but the soul of Sif 
+and the soul of Gwyn.
+
+My standard setup is: 
+Left hand: shield, bow
+Right hand: sword, flame, with a talisman in your inventory for healing and 
+                          homward
+Magic: 2x fire orb, iron flesh, heal or great heal, homeward
+Rings: Covetous gold serpent ring, ring of favor and protection
+
+This however, was intended for PVE use only. I will now provide some builds 
+that have been pretty effective for me in PVP.
+
+The following builds are just templates however, switch around with numbers or
+starting classes as you see fit.
+
+If you want to check out builds before spending time and souls in actually 
+creating one check the following link:
+
+http://mugenmonkey.com/darksouls/
+
+It will look like this:
+
+Type of build+starting class, the left number is for sl100, the middle for  
+sl120-130, the right one for sl200.
+
+VIT  x  x  x
+ATT  x  x  x
+END  x  x  x
+STR  x  x  x
+DEX  x  x  x
+RES  x  x  x
+INT  x  x  x
+FAI  x  x  x
+
+Some comment
+
+Dex/Pyro(the one I use in the guide), Pyromancer
+
+
+VIT  40  50  50  
+ATT  16  19  23
+END  40  40  50
+STR  16  20  30
+DEX  41  45  45
+RES  12  12  12
+INT  10  10  30
+FAI   8   8  30
+
+The 200 build will leave you a 187 with these figures, leaving 13 points to
+spend as you see fit. I've put int and fai at 30 so you can use buffs like
+crystal magic weapon or darkmoon blade.
+
+Notable gear/spells:
+
+Quelaag's Furysword, katanas, Balder Side Sword claymore for the 120-130 and 
+200 build
+Grass Crest Shield, Crown of Dusk
+Great Combustion, Chaos Fireball, Power Within, Firestorm, Black Flame
+
+Dex/Int, Sorcerer
+
+VIT  30  35  50
+ATT  16  16  23
+END  30  30  40
+STR  16  16  16
+DEX  36  40  45
+RES   8   8   8
+INT  35  50  50
+FAI   8   8  30
+
+The 200 build will get you at 184 this time, I've kept the str stat at 16 for
+all three varieties to use the Moonlight Greatsword, which is arguably the best
+melee weapon for an int build, but you shouldn't invest in it untill you 
+actually have the sword.
+
+Notable gear/spells:
+Velka's Rapier, Moonlight Greatsword, katanas, Blader Side Sword 
+Grass Crest Shield, Crown of Dusk
+Crystal Soul Spear, Homing Crystal Soulmass, White Dragon Breath, Crystal Magic
+Weapon(for buffable weapons), Pursuers, Dark Beads
+
+Str/Fai, Cleric
+
+VIT  40  45  50
+ATT  16  16  23
+END  40  40  40
+STR  29  40  50
+DEX   8   8  45
+RES  11  11  11
+INT   8   8   8
+FAI  30  40  50
+
+For this one, the 200 one puts you at 195, str is at 50 so you can one hand any
+weapon, faith is at 50 so you can use any miracle and dex is at 45 for max 
+casting speed.
+
+Notable Gear/Spells:
+
+Black Knight Greataxe, Grant, Dragon Tooth, Zweihander, Demon Great Machette
+Grass Crest Shield
+Wrath of the Gods, Lightning Spear, Great Lightning Spear, Tranquil Walk of 
+Peace, Vow of Silence, Sunlight Spear, Darkmoon Blade, Sunlight Blade
+
+There are many, many more possible builds with equally many pros and cons to 
+them, so feel free to experiment with them.
+
+++++walktrough++++
+
+In the walktrough I will try to keep it as spoiler free as possible, but I will 
+give my opinion on events AFTER they happen, so if it's your first run, you 
+might not want to read past the point of the game you are in. You have been 
+warned.
+
+Also because this game is mostly open world you can do most things in any 
+order, the order I use is what I like best, off course you are free to do it 
+otherwise.
+
+OK, take a deep breath, here we go!
+
+++++Character Creation++++
+
+As stated above, we'll take the pyromancer class.
+None of the options you can choose will matter gameplay wise, but for a gift I 
+strongly advice you to take the master key.
+It's the only item that can't be obtained otherwise and will be pretty helpfull 
+at times.  
+-Katana Faraway wrote: from patch 1.04 you can buy the master key from the guy
+you save in the sewers, creds to Katana for this-
+
+After beating the boss of Blighttown, you can find him on the bridge in 
+Firelink, the one you need to jump to for a Ring of Sacrifice.
+
+++++Undead Asylum++++[undas1]
+
+
+Pretty cool movie huh? Oh well...
+
+You  start out in a cell with a glowing orb in front of you, this is what items 
+and loot look like so pick it up.
+
+You'll get a message saying it is a dungeon cell key and opens the door of your 
+cell.
+
+You start out with a straight sword hilt and fireball, which you can't use yet.
+
+Open the door and walk forward, you'll see orange messages on the floor which 
+basically tell you the controls, read them as you go.
+
+On the left is a guy holding his head, he won't attack you unless you attack 
+him, do so anyway to get 20 souls.
+
+Another guy  just before the stairs, kill him too for another 20 souls.
+
+Up the stairs, keep going forward untill you reach a pool of water with yet 
+another guy sitting there, again, kill.
+
+Afterward go right through the archway and climb the stairs, go through the 
+archway and in the middle of the open area there is a sword in the ground.
+Approach it and press x to light the bonfire, press x again to rest here so 
+you can return here if you die.
+
+To your right under the arch is a door you can't open so go through the big 
+doors in front.
+
+Holy f*** what the hell!
+
+Theoretically you can kill this guy now, but it will be hard and time consuming 
+so run to the left through the door and activate the second bonfire, rest there 
+too.
+
+Go down the stairs to the left and through de door, run to the item and equip 
+your shield, go towards the archer with your shield up and he will run away.
+
+Grab the next item, your handaxe, equip it and go after the archer and kill 
+him. Go up the stairs and through the white fog.
+
+If you go left here you will see an item on a staircase you can't reach yet so 
+go right.
+
+Two more staircases, go down first, open the door and rest at the bonfire if 
+you want.
+
+Now go up the staircase but about halfway up jump off to your right as a 
+boulder will come crashing down creating a hole in the wall behind you.
+Go through that hole and talk to the guy who gives you a key and the 
+estus flask, which is your main healing source.
+
+Go up the stairs, kill the guy. BTW this might be a good opportunity to 
+practice backstabbing since we'll be using it a lot. You'll know you did it 
+right if you see an animation ending with you kicking the guy down.
+
+Through the next door is our next item, the pyromancy flame, after equipping 
+you can use fireball, but let's not test it out just yet...
+
+Here there will be 3 guys, 2 with swords 1 with a bow, you know what to do.
+
+Don't go through the fog yet, go straight and kill the soldier guy for some 
+extra souls, right now this is easiest done backstabbing.
+
+Get ready for payback.
+
++boss+ Asylum Demon
+
+When done right, this guy is really easy and beatable without getting hit once.
+
+When you go through the fog, take your weapon in 2 hands, target lock him and 
+do a jump attack, this takes off about about 50 percent of his health, then 
+keep circling him staying between his left leg and tail and spam him with 
+fireball, he should go down after 4 hits, ending the battle in 15 seconds 
+without a scratch on you.
+
+For beating him you get 1000 souls and the Big Pilgrim's Key.
+
+If you want a visual aid on how to beat it, check out this link:
+
+https://www.youtube.com/watch?v=1fYzU31algA
+
+Use the key to open the door and walk outside.
+
+Up the first flight of stairs, go left, down the slope to get a soul of a 
+Lost Undead.
+
+On the right side is a bird's nest with a voice asking for warm and soft.
+This is snuggly the crow.
+
+There isn't much use for it now but remember this place.
+
+Go back to the center area and proceed to the end of the cliff. 
+
+++++Firelink Shrine++++[firsh1]
+
+Is that a cool way to travel or what?
+
+Anyway, first order of business is to go to the bonfire.
+Now you should be able to gain 1 level, invest it in dex. Do not use the soul 
+you got earlier, you'll want to use it at the first merchant, just a little 
+while ahead.
+
+You should see a blue guy in front of you. If you talk to him he tells you to 
+go ring the bells, one in the church upstairs and one in blighttown. Basically 
+that's our first mission, but first let's explore.
+
+If you go down the stairs to your left you will see some sort of prison with 
+the firekeeper inside. She cannot speak but if you find a firekeeper soul and 
+give it to her, she will upgrade your estus flask to heal better.
+
+Go down the next flight of stairs and you will come to a lift, this takes you 
+to New Londo Ruins, but trust me unless you need to go to the blacksmith down 
+there you do not want to be there yet, in fact even when you need to go there 
+to proceed with the game, you don't want to go there.
+
+So back up the stairs, you will see a well with an item, this is Humanity. 
+Humanity is really neat because it allows you to go back to your human form, 
+kindle fires, raise your drop rate, and deal more damage to foes,
+Just be carefull, if you die you'll lose it, just like your souls.
+The amount of humanity you have is dislayed in the top left corner of the 
+screen.
+
+From the well go up the stairs and take the rightmost archway, here you will 
+find 6 Firebombs, basically the item version of Fireball.
+
+The middle archway leads to Petrus of Thorolund, who, if you keep talking to 
+him, will sell you miracles and a talisman, teach you a Gesture, and lets you 
+join his covenant, the way of the white.
+
+Go up the stairs to his right and you will come to 2 archways, if you go 
+through them you will come to four chests giving you 4 cracked red eye orb, 
+1 morning star, 1 talisman,6 homeward bone, and 4 Lloyd's talisman.
+
+Jump down here and you will come to a skeleton infested graveyard. There are a 
+few good items here, but the skellies are pretty strong so we'll do that later, 
+just get the hell out of there and rest at the bonfire so any skeleton chasing 
+you will be gone.
+
+Back to Petrus and up the stairs, now instead of going to the arches, go right 
+up the stairs and take the soul of a lost undead.
+
+Now from the well near the bonfire, go towards the large tree and up the 
+stairs, there will be a few enemies here, just be carefull, patient and take 
+them out with ease. Now before you go to the item and the soldier guy in the 
+back, go up the stairs and take out the firebomber and axe and sword guys that 
+ambush you. The soldier is easiest taken care of backstabbing.
+
+Take the soul of the lost undead. On the bridge you have probably seen an item, 
+you can jump the gap and get it, it´s a ring of sacrifice, but I don´t really 
+find it worth the risk.
+
+Go back up the stairs and take the Soul of a Lost Undead from the corpse.
+
+Through the door and to your left will be a rat guarding another Soul of a lost 
+undead, but be carefull, the rat can poison you.
+
+If you turn around there will be an archway to your left and a closed gate in 
+front of you, you can't open the gate yet, so go left.
+
+++++Undead Burg++++[undbu1]
+
+When you go up the stairs you will be attacked by 2 guys, by now you should 
+know what to do.
+
+After killing them you will see a few stacked barrels, break them and jump down 
+to get a Large soul of a lost undead.  
+
+Jump down again and you will be ambushed from 2 sides by 3 guys, so be 
+carefull.
+
+Before you cross the bridge to the right, go into the building on your left and 
+take the Soul of a lost undead from the corpse in the window. You can't go up 
+the stairs.
+
+Cross the bridge, go through the building and be carefull of a 4 guy ambush, 
+take the Rubbish, this is used for trading with Snuggly, we'll get to that 
+later.
+
+Go up the ladder and take the Humanity from the corpse and jump back down to 
+the start of the area, cross the small bridge to your left and kill the 
+firebomber. Be carefull, inside the building to your left is a guy who will 
+ambush you so kill him too.
+
+Cross the white light and take the Soul of a lost undead from the corpse under 
+the stairs, go up the stairs but don't bother trying to jump to the second 
+floor of the other building from here, you won't make it.
+
+Go right and up the stairs and... Whoa what the hell? You know we're going to 
+kill you for that, you a******?
+
+Well, up the stairs will be 3 guys with swords and 1 on the building with a 
+crossbow, take them out.
+
+Open the door, take the wooden shield and equip it if you want, but unless you 
+have gotten a hollow soldier shield dropped we'll buy a heater shield in a few 
+moments.
+
+Go up the stairs and into the building on your left, light the bonfire and 
+reverse hollowing and kindle the flame if you have the humanity, kindling will 
+restock your estus to 10 instead of 5 and we'll be using this bonfire a lot in 
+the coming hour or so. Also note that if you kindle a bonfire while online, 
+every player that lastly used said bonfire will get a free estus, so you are 
+not just doing it for yourself.
+
+Anyway, get your dexterity up to 12 now if you have the souls, otherwise grind 
+for them around here.
+
+Now go back down the stairs, take out the guys and go left across the bridge 
+we skipped earlier.  
+
+At the end of the path will be 2 guys with shields and spears, the best way to 
+deal with them is to attack once, they will block it but it will bait them 
+into counterattacking, if you circle them while locked on you can easily 
+backstab them, take note that while you are in the backstab animation, you 
+will not take damage, but be carefull, because when it ends it can happen that 
+you get attacked and don't have time to block.
+
+Guys dead? good.
+
+To the left of this area are a few crates hiding a stairwell, so destroy them 
+and go down.
+
+If you go through the door in front of you there is a merchant who sells some 
+good stuff, for now at least.
+
+Buy the shortbow, 100-200 wooden arrows, if you don't have a hollow soldier 
+shield, buy the heater shield and if you have the souls also buy the residence 
+key and the repairbox, but we can leave those 2 for later.
+
+Equip the shield and bow, and don't forget to equip the arrows, or your bow 
+will be useless.
+
+Now, go back inside the building and go left, there's an axeguy waiting to 
+ambush you behind a bookcase so do what you need to.
+
+Continue through the door and at the end of the walkway there will be 4 guys, 
+get creative(or destructive, depending on your point of view) and take care of 
+them.
+
+Go up the ladder, take the 10 throwing knives and from here you can jump to the 
+second floor of the building we didn't jump to earlier, where you will find a 
+crossbow and some bolts, crossbows take a long time to reload, so that's why I 
+prefer normal bows, also a crossbow is scaled with strength(I think), normal 
+bows with dex.
+
+Let's go back to the bonfire and rest so we can continue.
+
+First take care of the guys that attack you as soon as you step out the door, 
+then it's time to take out our bow.
+
+Shoot the guys on the roof that are throwing firebombs, a headshot does more 
+damage. There are 3 of them, but the leftmost one is a bit hard to hit so you 
+can just leave him.
+
+If you move your crosshair down and to the right you will see a soldier, shoot 
+him once and wait for him to come to you, because inside the building are also 
+2 axeguys. The soldier sometimes takes one with him, but that shouldn't pose 
+too much of a problem.
+
+After taking care of our friends there will be a closed gate inside the 
+building which cannot be opened from this side, so go left.
+
+Go into the building to your right, kill the 2 guys and open the chest for 5 
+black firebombs.
+
+Back outside go up the stairs and lure out the 3 guys one by one before killing 
+them.
+
+Now go inside the round tower, kill the sniper and go back down. If you have 
+either the master key or the residence key, you can open the door to get 3 
+Gold pine resin. This item gives lightning element to your right hand weapon, 
+which comes in handy for the next boss.
+
+Back outside you have probably alerted a spear soldier so do your thing.
+
+
+Go up the ladder, kill the last firebomber if you haven't already and take the 
+soul of a lost undead.
+
+Go back down and lure out the soldiers one by one with the bow and kill them.
+
+Go up the stairs, but look out, a soldier will roll down a flaming barrel so 
+evade and kill the soldier.
+
+Now prepare for a semi tough fight.
+
+Back down the stairs you will see another stair going down. At the end of this 
+is a black knight guarding an item.
+
+Shoot him with your bow, then lure him back to the large open space with the 
+round tower. Keep circling him untill you get a chance to backstab, he will 
+survive so immediatly lock onto him again and throw a fireball at him, Switch 
+back to your axe and repeat untill dead. He will drop a Titanite chunk, which 
+is used to upgrade weapons, and possibly a Black knight sword or shield.
+
+You now will probably want to go back to the bonfire and rest up which is a 
+good idea, also level up, put everything on strength because we need to get it 
+at 16 for our next melee weapon. Spend any extra souls on arrows.
+The item the BK guarded is a blue tearstone ring, which raises your defence 
+when your HP is low, might as well equip it.
+
+Go back to the flaming barrel stairs and into the tower.
+
+With the master key you can open the door in front of you, but behind it is a 
+powerfull enemy who we can barely tickle right now so go up the stairs.
+
+On the level with the white fog is a lizard hiding behind a barrel. Lizards 
+drop all kinds of titanite but disapear if you can't kill them quick enough, 
+so leave it for later.
+
+Past the white fog is a ladder to your immediate right, climb it and kill the 
+snipers.
+
+
++Boss+ Taurus Demon
+
+Alright, go down the ladder, use a gold pine resin and walk untill about 
+halfway the bridge.
+
+Big ugly will jump down, so turn around, run back and climb the ladder.
+
+Wait untill it's below you, lock on and jump attack him.
+
+This takes away about 50% of his HP, afterwards stand between his legs and 
+start slashing like a madman, he'll probably hit you once but it doesn't really
+hurt.
+
+There, another boss easily taken down, you'll get 3000 souls for your efforts.
+
+If you want some visuals on how to kill it, copy and paste this link:
+
+http://www.youtube.com/watch?v=7lQKKTA2ZEc&feature=youtu.be
+
+At the end of the walkway is a stairs going down with 2 crates against the 
+wall, destroy the rightmost one for a large soul of a lost undead.
+
+At the bottom of the stairs is a locked door in front, which can't be opened 
+yet, a bridge with some soldiers to the left and an open area to the right, go
+there first.
+
+Here we will find Solaire of Astora, who, if you talk to him will give you the 
+White sign soapstone which enables you to summon other people to help you 
+against bosses when you are human. You can also sometimes summon NPC's with it.
+
+Now carefully walk onto the bridge, after a few steps turn around and run back.
+
+It's our dragon buddy!
+
+Ok, make sure you're at full health and run on the right side of the bridge 
+taking the stairs down to safety.
+
+There are 2 doors here, first take the one with the stairs going down, kick the
+ladder to create a shortcut and rest at the bonfire.
+
+Time to do some grinding.
+
+If you go back up the ladder and up the stairs leading to the dragon, you can 
+bait it into killing the soldiers for you by walking onto the bridge, just past
+the first soldier and running back down. This will give you 500 souls every 
+time, so run back to the bonfire to respawn the soldiers and repeat.
+
+The stats we're aiming for are 16 Strength, 14 Dex, and you might as well raise
+your Vitality and endurance by 1 or 2 points too.
+
+When you are done go up the ladder and take the other door, which leads under 
+the bridge. At the end is a soldier with a sword and hiding behind the wall is 
+a soldier with a spear, get rid of them by any means.
+
+Once they are dead, go to the side of the bridge where you can see the dragon's
+tail. If you stand next to the last pillar that isn't attached to the castle, 
+you can shoot it's tail. When you do enough damage it's tail will fall off and 
+give you the Drake Sword, pretty much the best weapon you can have at this 
+point.
+
+Take note however that it scales with nothing, the only way to deal more damage
+with it is by upgrading it, which we can't right now.
+
+If you want to you can kill the dragon now, giving 10K souls, but it will take 
+a long time and takes away the best grinding spot we have right now, so let's 
+do it later.
+
+If you go to where the spear soldier was you will see a door, inside are 3 rats
+so you can test out your new toy. Remember they can poison you, so just block 
+and counter.
+
+Take the ladder going up and to your left you will see a stairs going up. On 
+top of it is a Black Knight, this one is a little harder to beat than the first
+one so we'll take care of him when we go kill the dragon.
+
+++++Undead Parish++++[undpa1]
+
+Through the door on your right is a soldier, past him you can see a big boar ,
+3 soldiers and 2 snipers on the walkway. 2 of those soldiers you can lure to 
+you with your bow, the third one will go hide behind the boar.
+
+Be carefull luring them however because hiding to your right is a spear guy.
+
+As soon as the soldiers are dead, go immediately right, up the stairs and waste
+the spear soldier and the snipers. Then stand on the archway and kill the boar 
+with arrows or fireball.
+
+One of the soldiers  could have closed the large gate, sometimes it happens, 
+sometimes it doesn't. We're not going through it anyway. To the right of the 
+gate is a stairs going down and a guy trying to bait you into following him, 
+don't do it because you will be jumped by 2 other guys, so carefully walk in 
+to lure them out and take out everyone inside.
+
+In the back of the room you can find the mystery key, so take it and go up the 
+hard to see ladder you just passed.
+
+Kill the 2 guys and carefully walk across the beam to get a Large soul of a 
+lost undead.
+
+Go up the stairs and through the white light, across the bridge there are 
+stairs to your left and a walkway to your right, go right first.
+
+Carefully approach the knight and backstab him, with the drake sword it should 
+kill him. If something goes wrong and he notices you just use the basic block 
+and counter. Watch out when he raises his sword though, that means he will 
+parry and riposte which hurts, a lot. Anyway, take the knight shield, go back 
+and up the stairs.
+
+To your left will be a spear soldier waiting to ambush you so kill him.
+
+Go through the door, walk outside and go left, quickly take out the knight and
+turn around. Now kill the spear soldier and continue.
+
+Out on the walkway take the first left and you'll be behind the closed(or not) 
+gate. Take the basement key and halberd lying here and carefully approach the 
+door.
+
+There will be a knight running at you, lure him outside and backstab him.
+Take out your bow, shoot the second knight and kill him too.
+
+While you were sniping the second knight, you probably saw a really big knight 
+in the back of the room, lure him out with an arrow and kill him, just don't go
+through the door because a third knight is waitng to your left to ambush you.
+
+After all enemies are dead, run to where the big knight was and take the 
+Firekeeper soul, just know that on a walkway above you there will be a sorcerer
+casting soul arrows at you.
+
+From the firekeeper soul go right, kill the 3 soldiers and cross the bridge 
+into another building.
+
+If you go down the stairs you will come to a bonfire, light it,rest at it and 
+if you have the humanity reverse your hollowing(if nescesary) and kindle the 
+flame, don't use your souls for levelling though, the hammering sound you hear 
+is Andre of Astora, a blacksmith, who is downstairs. Repair any equipment and 
+buy at least the repairbox. Andre now sells arrows too.
+
+Grinding time again.
+
+You probably saw that Andre also sells the Crest of Arthorias for 20K souls.
+
+Go back to where you just came from, kill the 3 soldiers, then go left across 
+the walkway, backstab the knight, kill the spearguy, go to the large area 
+behind the gate, kill the 3 knights inside the building, go back to the bonfire
+and repeat untill you have enough souls.
+
+Now go to Andre, buy the crest and go through the door near him.
+
+This ugly thing can be beaten real easily(although cheap) by standing behind a 
+broken pillar in the middle of the room where he can't hit you but you can hit 
+him with manual aim. He drops a Demon titanite and can also drop a titanite 
+catchpole altough this never happened for me.
+
+
+++++Darkroot Garden++++[darga1]
+
+As soon as you enter, go left. You'll see a walking tree like thing coming at 
+you, don't let them grab you, just block and counter. It should go down after 
+3 hits. These guys have a fairly high drop rate of moss clumps, different 
+colors heal different status changes, like poison.
+
+When you kill the second tree look behind you, you'll see a glowing flower on 
+a hill, go there.
+
+Now go right and go down the winding path, try to kill the lizard and keep 
+going down untill you see an item on a cliff you can jump down to, do so to get
+the longbow, some feather arrows and the leather armor set.
+
+If you have 14 dex. equip it and the armor if you want. Now use a homeward bone
+to go back to the bonfire.
+
+Get back to darkroot garden and now walk to the end of it with the glowing sign
+on a door.
+
+Before you open the door using the crest you bought, hit the wall to the left 
+of it revealing a bonfire, kindle if you have the humanity.
+
+Now, if you open the door, you will see some guy standing in front of you, 
+don't try to fight him. Alone he's pretty strong and his friends will join the 
+fight early on.
+
+What you want to do is run past the guy to your left untill you see another 
+guy, then turn right, a third guy will drop down, now turn around running back 
+to the stairs, you should also have alerted a fourth guy.
+
+Instead of running up the stairs, go to the edge on the right, stand close to 
+the wall and wait, all 4 of them should jump to their deaths from the stairs 
+above you, giving you 7000(!) souls. Do this as long as you want/dare.
+
+If you have trouble doing this with my crappy description, there are plenty 
+videos on YouTube showing how to do this.
+
+We have just found the second best grinding method in the game that I don't 
+consider cheating, there is a better one and I will mention it when it becomes 
+available, but like I said, it's cheating.
+
+In patch 1.05 these guys are far less dangerous than they were and can now
+easily be defeated by fighting them, it takes a little longer, but is safer and
+more faultproof. 
+
+From here on out I will not tell you to grind anymore, if you need souls for 
+buying or leveling, just go here. I will however point out decent grinding 
+opportunities whenever we get there.
+
+Now back to the game.
+
+++++Undead Parish++++ [undpa2]
+
+Go back to the area where the firekeeper soul was, if you enter from the door 
+with the 3 soldiers, you will see 2 gates, 1 open 1 closed, this is an elevator
+back to firelink shrine. Step in the open gate, touch the floor button and get 
+out again unless you need to rest, from now on this is a shortcut.
+
+If you look to your right you will see a stairs going up, go there but be 
+carefull of the knight, lure him down and kill him.
+
+Go up the stairs and through the window you can see the sorcerer that was 
+annoying us earlier, just shoot arrows through the window to kill him, he 
+shouldn't be able to hit you.
+
+Now be carefull, if you enter the large room you will be ambushed by many 
+swordguys so walk in a few steps, lock on to the first one and walk back, 
+either blocking and countering or fireballing them, whatever works best for 
+you.
+
+Once they are all dead, go left twice, kill the knight, when the path starts 
+turning left you will see some planks with light shining behind them, slash 
+through them and up the stairs.
+
+Here you will meet Lautec of Carim behind bars. If you picked up the mystery 
+key you can free him. Now you can either leave him there so he will show 
+himself out or you can kill him giving you a Ring of favor and protection. 
+It's a nifty ring which raises your hp, stamina and max equipment load, 
+but I advice to let him go, we'll get a chance (and a real reason) to kill him 
+later anyway. If you don't do anything he'll get out, but he won't reward you 
+after beating the next boss.
+
+Go back down, continue the path you came from and slash the barrel with the 
+corpse in it to get a humanity.
+
+Go all the way back to the large room where the ambush was, go straight through
+the door and take the large soul of a nameless soldier.
+
+Back to the large room, go left twice again, follow the path and prepare 
+yourself.
+
++Boss+ Bellfry Gargoyles.
+
+If you are going for the platinum trophy I suggest doing this in 2 stages.
+
+The first rum just go for cutting of it's tail, take the Gargoyle tail axe and 
+quit to the menu, reload to get right back before the fog.
+
+If you didn't kill or otherwise aggroed Solaire(the knight who gave you the 
+white soapstone), you can summon him here. Do so and if he survives he will 
+give you a Sunlight medal. You are going to need 10 of these to get a miracle 
+from the sunlight warrior covenant.
+
+Anyway, here's the strategy.
+
+From the start keep moving, he has a confusing jump attack that can let you 
+throw youself of the roof if you're not carefull.
+
+Just get close, bait him into doing an attack, get behind him and attack.
+
+This way he'll go down pretty quickly, just beware after about a minute his 
+buddy shows up who will start breathing fire. 
+
+Just stay focussed on the first one, stay cautious but aggressive and take him 
+down. Repeat for number two and this fight should end without too much 
+problems.
+
+If you have Solaire with you, the strategy remains the same, but although Sol 
+won't do a lot of damage, he will provide a good distraction to make the fight 
+even easier.
+
+When the gargoyles are toast you'll get 10000 souls if you did it alone or 
+5000 souls and a sunlight medal if you did it with Sol and he survived. 
+
+Here's a link on how to beat those goofballs.
+
+http://www.youtube.com/watch?v=EOYYHbHSZh4
+
+There is nothing on the sides of the tower, so go in and climb it. When you 
+reach the top you will see a lever, pull it.
+
+You just rang the first bel of awakening, nice going!
+
+Go back down and talk to the creepy guy that has arrived, this is Oswald of 
+Carim. This guy can give you absolution for sins you may have committed against
+covenants, the cost is high however (2000 souls x your current level), but if 
+you anger an NPC, this will stop them from being hostile. He does sell some 
+good items though, the miracle Karmic justice, some rings and most importantly 
+right now, purging stones.
+- Ultimate_Finale wrote: after patch 1.04 the cost for absolution will only
+be 500 souls x your current level, so creds to him-
+
+The rings and miracle are probably way above your price range, but aim to buy 
+at least 1 purging stone, Ozzie sells them for 3000, the only other merchant 
+that sells them asks 6000 and trust me, if you get cursed you´ll want one asap,
+so just buy one.
+
+Head back to the Firelink shrine.
+
+++++Firelink Shrine++++ [firsh2]
+
+Go towards where fhe firekeeper is and give her the firekeeper soul if you 
+haven't already, this will upgrade your estus. Near her, you will see Lautec 
+sitting on the floor, talk to him to get 1 sunlight medal.
+
+++++Undead Burg++++ [undbu2]
+
+When you're done, go into the Undead Burg, to the bonfire there, if you haven't
+picked up the residence key from the merchant yet, do so now, go up the ladder 
+and towards the bridge with the dragon. Remember the door we couldn't open 
+earlier, on the bridge? We now have the key, so open it.
+
+Do so and go down the ladder, here you will see 2 staircases, one in front and 
+one on the right, go right first and open the gate at the end, you should 
+recognize the area. This is another shortcut.
+
+Go back down and take the other stairs, here you will be attacked by 3 dogs, 
+don't fight them on the stairs, you can't swing your sword, instead lure them 
+back to the open area and just block and counter. These bitches can poison you 
+so be carefull.
+
+Doggies dead? now go down the stairs and make a right U-turn and stand near the
+door without a round top, with the residence key you can open it and save 
+Griggs of Vinheim. After beating this area's boss he will be at firelink to 
+sell you sorceries. If you roll into the barrel with the corpse, it will drop 
+the sorcerer's clothing set and a catalyst.
+
+Step outside and go left. At the end of the path will be 7 guys with torches, 
+kill them all and take the twin humanities, this is the same as a normal 
+humanity but gives you 2 points of humanity when you use it.
+
+Turn around and go the other way. There will be a cart in the middle of the 
+road, go past it but beware, when you pass the second door to your right, you 
+will be ambushed by 3 thieves, they are fast, hit hard and can throw knives at 
+you, oh yeah, they can also poison you.
+
+This sounds like a lot, but they are no match against the tried and tested 
+block and counter, when they come out, just run back to behind the cart and 
+they should come at you one by one. Hah! who ambushes who here?
+
+In the first building to your right you will find a mail braker.
+
+Continue following the path but be carefull, another ambush is just ahead, 3 
+thieves and 2 dogs this time, just be defensive and patient, wait for an 
+opening and take them out.
+
+To your left is another corpse in a barrel, this time dropping a large soul of 
+a lost undead. In the second builing to the right is the black leather armor 
+set, a pretty decent set, so equip it.
+
+Now, before going through the fog and confronting the boss, first go right just
+before it, to create another shortcut.
+
+The boss can be pretty nasty if you have run out of luck, and you don't want to
+repeat the last few ambushes again.
+
+Go down the stairs, but before going down the last one, take out your bow and 
+snipe the thief. Afterwards, be carefull, another one is hiding behind the left
+corner, show him what we do with cowards like that.
+
+When they are done for, don't go up the stairs yet, go to the end of the 
+hallway and take the large soul of a lost undead.
+
+Go up the stairs, inside the tower, do the same, take out the archer and head 
+through the door.
+
+To your right will be a merchant, she does not sell a lot of interesting 
+things, but she does sell purging stones at 6000 souls each, she will also sell
+you 1 humanity if you want. If you have some spare souls, also buy poison 
+arrows, 40 to 50 should be fine.
+
+Turn around and open the iron gate, you probably already know where you are 
+right now, so if you need to rest, do so and head back to the boss gate.
+
+As you go up the stairs to the fog, the 2 dogs will attack you. kill them, 
+make sure you're at full health and go through the fog
+
++Boss+ Capra Demon
+
+This fight can be fairly easy or just plain annoying, making you want to throw 
+your controller at the tv screen.
+
+The biggest problems here are the small room and the 2 dogs he brings with him,
+which need to be killed asap.
+
+Ok, now for the strategy.
+
+As soon as the fight starts Cap will come at you, 1 dog comes at you from the 
+left.
+
+Run a little to the right I'd say at about 30 degrees, when he raises his 
+blades, roll straight forward, the second dog will come at you from either the 
+front or the right.
+
+The timing to roll without taking damage will take some tries to learn, but 
+even if you do get hit, it's not over yet.
+
+As soon as the roll ends, take a hard left towards the stairs, about halfway up
+turn around and lock on. Cap walks pretty slow, so you should lock on to one of
+the dogs, which should be right behind you.
+
+Block and counter, taking care your sword doesn't hit the wall. Both dogs 
+should die with a single swipe.
+
+Those were the first 5 to 10 seconds.
+
+If you get through this in one piece, the rest is plain sailing.
+
+You can either take Cap on one-on-one, circling him and attacking his back 
+after a two-handed swing, don't do it after a one-handed swing or he will 
+probably counter, leaving you at his mercy, and he doesn't show any.
+
+Another, safer, approach is to use the stairs.
+
+Lock onto him, always having your shield up, he can hit you from nearly 
+anywhere, and walk onto the stairs all the way over the arches as far as 
+possible.
+
+Now he will do one of two things: He will try to jump you from about halfway up
+the stairs, miss usually, he can sometimes hit you, so keep your shield up.
+Then when he is stuck on the floor jump attack him.
+
+Another thing he might do, is go up all the way towards you. If this happens, 
+jump down, lock on, and wait for him to jump down, slash him twice and get back
+up.
+
+Repeat untill he's dead.
+
+As you can see, the first few seconds will determine the outcome of the battle,
+as soon as the dogs are gone the worst is over so just stay calm, get rid of 
+the dogs and waste this bastard.
+
+After it's over and you are dancing through the room you will get 6000 
+souls and the key to the depths.
+
+Here's a video on a very close call (and showing how much out of practice I am 
+right now)
+
+https://www.youtube.com/watch?v=aOzv72cGRYY&feature=plcp
+
+When you are done celebrating, go back out the room, down the stairs and to the
+door you probably saw when creating the last shortcut.
+
+++++Depths++++ [depth1]
+
+When you enter, go down the stairs, you'll see a guy waiting for you in the 
+distance, don't run to him, because hiding behind the stairs you're on is 
+another one waiting to ambush you.
+
+Carefully walk in, lure them out and take them out. In the back of the room is 
+a third one who will come at you too.
+
+After killing them turn around and take the large soul of a nameless soldier 
+from the side of the stairs.
+
+Go forward and go through the door, under the stairs is a sword guy waiting for
+you, a torch guy in front of the stairs and three guys are hiding on the 
+balcony behind a pillar, again lure them out one by one and kill them.
+
+In the back of the room is a final guy hiding behind a pillar, do I still need 
+to tell you what to do?
+
+If you approach the stairs you will see a dog waiting for you, lure him up and 
+teach him how to play dead.
+
+Go halfway down the stairs, if you aim your bow manually, you will see another 
+dog guarding a chest, and a butcher hacking something, shoot the dog, kill him 
+and engage the butcher. Use standard big guy tactics against him. (circle, 
+backstab when possible and if you have it relock and fireball) He should go 
+down easily.
+
+Open the chest to get a large ember. This is used to upgrade weapons, if you 
+give this one to Andre, the smith near darkroot garden, he will let you upgrade
+your weapons past +5, it also lets you upgrade your +5 weapon to a raw weapon.
+
+If you go through the door behind the butcher you'll come to a ledge with a big
+rat down below, arrow it to death if you want. On the other side is the spider
+shield, you can get there by walking across on the right side of the room.
+
+Now, homeward bone out of here and from the bonfire make your way back to the
+room where the butcher was.
+
+If you walk back to the stairs you came from you will see a pool of water with 
+a dog in it, kill the dog, go down, kill a second dog and a sword guy.
+
+Go up the debris on the other side and go left into a room with a lot of 
+barrels. In the back of the room you will see someone trapped inside a barrel, 
+roll through the barrels to free him, don't use your weapon, if you hurt him he 
+will turn hostile and you lose your only chance to get one of the most usefull 
+pyromancies in the game.
+
+This guy is Laurentius of the great swamp, a pyromancer just like us. After 
+beating the next boss he will be at firelink to sell pyromancies.
+
+Turn around back into the hallway, start running and when you can, go right. A 
+butcher will have come after you, I guess he doesn't like the fact that you 
+just freed his next meal or something, anyway use the same tactics as with the 
+previous one and get rid of him.
+
+When he is down, go through the door at the end, and down the stairs. To your 
+left you will see an item, don't try to take it yet. Instead take out you bow, 
+go into aiming mode and look up, the blob thing on the ceiling is waiting to 
+jump you, so start shooting, if it grabs you, you're as good as dead, so kill 
+it.
+
+The fight will probably have alerted a torch guy, so kill him too. Now take the
+soul of a nameless soldier and move on.
+
+When you reach a room with a torch guy in the back, look up, there are 6 blobs 
+on the ceiling, so start shooting.
+
+After they're gone, kill the torch guy, and open the door with the master key.
+
+Thank god, a bonfire. Light it, reverse hollowing if needed and kindle the 
+flame, it might also be a good time to repair your gear.
+
+When you're done playing with fire, go back out, kill torchie, and go right.
+
+See the big rat? He can't hurt you here, but we will have to deal with him at 
+some point, just go straight.
+
+The rats to your right are fairly docile, so you can just go in and kill them, 
+take the greataxe, turn around and go the other way, be carefull, a rat will 
+jump out the crate in the corner, he should have stayed in there.
+
+Again a pack of rats down the stairs, kill them, turn around and take the soul 
+of a nameless soldier you see in the distance.
+
+From here, go right, through the fog, down the stairs is a sorcerer and 3 
+giant rats, so take them out killing the sorcerer first.
+
+Down the stairs to the left are 2 crates with rats hidden inside and a dead end
+
+-Several people have e-mailed me that in the corner at the dead end is a Large
+titanite shard on a corpse, I don't know how I could have missed it, but creds
+to them-
+
+so go right. Kill the rat, go through the door and take the second right, 
+carefull there's a hole in the floor before the soul of a nameless soldier, so 
+jump over it.
+
+If you go straight you will reach the room with the big rat, I usually shoot 1 
+arrow to draw it's attention and then play hide and seek throwing fireballs 
+from the hallway, now take the sewer gate key and the soul of a nameless 
+soldier.
+
+Slide down the waterway, in the hall to your left you will see a frog like 
+enemy, These are very dangerous as they spew a cursing mist. If you get cursed,
+you die and afterwards your hp will be halved, get cursed again and you hp gets
+halved again, the only cure is a purging stone. I have never gotten cursed more
+then once at a time so I don't know how far the cursing goes and if you need 
+one purging stone to cure all, or if one stone just cures one curse.
+
+Anyway, take it out. If you turn around after killing it and go back to the 
+hall you started in you will be attacked by 3 giant rats and if you are human 
+you'll get invaded by Kirk, just kill him using backstabs, he's easy. You'll 
+get 5000 souls and 1 point of humanity for beating him.
+
+Continue the path to the right, go up the stairs and you'll end up in a room 
+with 2 blobs and 2 rats and a giant gate to your left. Don't go there yet, 
+instead take the stairs in the back to the right, open the door and follow the 
+path, you'll have created a shortcut back to the bonfire, so go ahead and rest.
+
+Now, I know this guide doesn't cover the entire sewer area, but the only item 
+that might be worth getting cursed over(the part I skipped is infested with 
+frogs) is the ring of the evil eye, which gives a little hp back for every 
+enemy you kill, but you don't need it for anything, there's not even a trophy 
+for collecting all rings, so if you desperately want it, you're on your own for
+this one, but keep in mind that it's not as good as it sounds.
+
+Go back to where you came from and proceed towards the gate, but instead of 
+going through it go right through the archway. When you can, go right again, 
+follow the path and go down the stairs, go right again and near the stairs you 
+should see a summon sign if you are human, this is sol, behind the same pillar 
+is the sign for lautec, if you freed him back in undead parish. You know what 
+this means, a boss is coming up, but don't summon them this time, their AI is 
+too stupid to do it properly and makes the fight take longer than needed.
+Besides, they won't survive anyway, so you won't get a sunlight medal.
+
+Take the heavy crossbow with heavy bolts at the end of the path before going 
+down the stairs, go down the stairs, through the fog and face...
+
++Boss+ Gaping Dragon
+
+This guy looks pretty mean, but honestly, it's one of the easiest bosses in the
+game, it's quite tough and takes a while to kill, but also really stupid and 
+easily manipulated.
+
+Put away your shield, you don't need it, and take your weapon in two hands for 
+extra damage.
+
+When the fight starts, just stay where you are, it should belch out some yellow
+smoke and drop to a prone position before rushing you. This is what we want it 
+to do the entire fight.
+
+Get out of it's way and wait untill it stops, it will stay still for a few 
+seconds which is your cue to lay on the hurt. Hit him a few times, 3 or 4 at 
+most and then run away like a little girl getting a good distance in between.
+
+This will cause him to spew smoke again and start rushing. Repeat untill dead.
+
+As this is a dragon enemy, the first priority however is to cut of it's tail 
+giving you the dragon king greataxe. this also takes away it's nasty tail 
+swipe.
+
+The last thing to watch out for is his jumping attack. When hit dead-on, you're
+dead. 
+
+When the fight is over you get 25k souls, the key to blighttown and you can 
+pick up the hard leather armor set.
+
+For another visual, check this link:
+
+http://www.youtube.com/watch?v=PYRc2aoAgqE
+
+Before we head into Blighttown however, let's do some prep work and tie up some
+loose ends. Head to Firelink Shrine.
+
+++++Firelink Shrine++++ [firsh3]
+
+When you get down the stairs, you'll see Griggs, the sorcerer we freed just 
+before fighting the Capra demon. He will sell you sorceries if you want them.
+If you free Logan later, Griggs will stay here for the rest of the game.
+
+From the bonfire, go under the arch and look left, here you will see 
+Laurentius, he's our BFF now because he sells pyromancies, including iron 
+flesh, make this your first priority because after beating Blighttown's boss 
+and showing him a new pyromancy from the Chaos covenant he will dissappear.
+He will also upgrade our flame, take it all the way to +15, this will cost you 
+roughly 140k, but you will need it before beating Blighttown's boss to get the 
+final pyromancy near the end of the game.
+
+Anyway, buy everything he sells and upgrade your flame, attune iron flesh at 
+the bonfire and get an extra slot or replace fireball with fire orb.
+
+Talk to Petrus, the miracle guy and his crew to find out they will be going on 
+a quest soon, don't bother buying all his miracles yet if you haven't, he will 
+be back.
+
+Take the elevator and go to Andre, the blacksmith.
+
+++++Undead Parish++++ [undpa3]
+
+Talk to Andre and give him the ember when asked, now you can upgrade your 
+weapons further, although you probably don't have the materials yet.
+
+Anyway, buy the armor and weapon smithboxes so you can do some upgrades 
+yourself at a bonfire and upgrade your bow to at least +5.
+
+Now, go to the merchant at Undead Burg.
+
+++++Undead Burg++++ [undbu3]
+
+Buy as many standard arrows as you can from this guy, aim for 999, and equip 
+them. You can equip 2 types of arrows at one time so theoretically you could 
+always have 1998 arrows ready to go. Now kill him.
+
+Seriously, kill him, before we run out of arrows, we will have found a better, 
+easier to reach merchant and this one drops the uchigatana sword, not that it's
+very usefull or anything but at some point we will need it to create a weapon 
+with a boss soul, so let's just get it over with and be done.
+
+He also drops 1 humanity and the orange guidance soapstone so you can leave 
+messages if you play online, you'll also get a staggering 50 souls for doing 
+this.
+
+Do you remember the dragon on the bridge? Guess what's next.
+
+That's right, he's gonna pay for all he has done to us. Go up the ladder at the
+bonfire and go to the lower part of the bridge.
+
+Kill both the soldiers and take out the rats in the small room ahead too, just 
+to be safe.
+
+Now, go stand on the left side of the door as far to the left as possible, take
+out your bow and aim for his head, he will react by going onto the bridge, here
+you can shoot 3 or 4 more arrows at him, depending on your aiming skills.
+
+That's pretty much the whole fight. when his hp drops enough however, he will 
+start to heal himself. When he starts shaking his head with his wings in front 
+of him you will know he's healing, taking his health back to about 75%. It may 
+look like you can't kill him but at some point, usually after 3 or 4 times he 
+will stop, so just be patient and keep shooting. It might also never heal.
+
+-I have been recieving more e-mails than I can handle about this strategy being
+patched out, I have just tried it out for myself in patch 1.05, and it works
+just fine. So the people having trouble with this, sorry, but you just had some
+bad luck with its healing habits. All the people I told they needed to melee 
+it, sorry to make it harder on you than necessary.-
+
+Here's a link to a video I made proving it can still be done.
+
+http://www.youtube.com/watch?v=rLRhsX-oWT8&feature=plcp
+
+Take note, you HAVE to be OFFLINE for it to work.
+
+Easiest 10k you ever made right?
+
+After the dragon is gone, go inside where the rats were, Remember the Black 
+knight we skipped? Now it's his turn. Go up the winding stairs just before 
+Undead Parish, cast iron flesh when you're nearly at the top and take your 
+sword in 2 hands, have fun!
+
+He will drop another titanite chunk, and might drop a black knight greatsword 
+or a black knight shield, go back to the room before the bridge.
+
+Go up to the bridge, take the claymore and the soul of a nameless soldier. 
+Light the bonfire and open the gate if you want, this leads to Undead Parish, 
+but we don't have any business there right now.
+
+To the right of the bonfire is a balcony with some non-agressive guys, kill 
+them if you must. See the statue with the huge spear? This is where you can 
+join the warrior of sunlight covenant, but only if you have 25(!) faith, you 
+will get a miracle for joining, a miracle for giving them 10 sunlight medals 
+and a miracle for giving them a certain boss soul, check the miracles section 
+for info on this.
+
+Pick a bonfire and level up with your "hard" earned souls and head back into 
+the sewers and Blighttown. 
+
+++++Blighttown++++ [bligh1]
+
+Before you open the gate into Blighttown, there is a merchant sitting on the 
+floor on your right, he doesn't sell a lot of interesting things, but the 
+bottomless box is something you might want to buy. It lets you stash away items
+you don't need so you can keep your inventory organised.
+
+In NG+ He will sell you The armor used by the final boss, defence wise it sucks
+but it has the best curse resistance in the game.
+ 
+After opening the gate, go to the left, along the ledge and down the ladder. 
+You will come to a wooden walkway with another ladder to your left. Don't go 
+down yet, destroy the junk in front of you and take out your bow.
+
+See the big guy with the club downstairs? He's fairly easy to beat, but you can
+easily fall of the ledge here, so just snipe him, he can't reach you here.
+
+Now, go down the ladder, but walk slowly, a little ahead are 2 more of them, 
+just snipe 1, wait for him to come running, turn around and go halfway up the 
+ladder.
+
+If you go all the way up, he will follow you all the way and you have to snipe 
+him like you did with number 1, if you go only halfway up, he will fall of the 
+ledge somehow. Repeat with the third one.
+
+When they are done for, carefully walk forward, you'll see some pinkish guy 
+waiting, he has a lot of friends hiding behind him, I think there are about 6 
+total, so take your bow and lure him to you. These guys are fairly tough, but 
+can be easily beaten by simple block and counter, just be carefull when it 
+squats and hisses, this means it's going to jump you with a grab attack which 
+really hurts, if not kill you.
+
+At some point during this there will also be a guy spitting darts at you, these
+things cause 'toxic' status, a nasty variety of poison, that can only be cured 
+with a blooming purple moss clump, luckily these guys don't respawn after 
+killing them.
+
+-If you picked up the spider shield back in the sewers, the spider shield 
+negates the toxic status. This tip was sent to me by someone who wishes to stay
+anonymus, but creds to you anyway.-
+
+When all pinkies, including the ones accross the bridge, are dead, go to where 
+the spitter was standing, down the ladder there are two more pinkies, take them
+out and go to the end of the walkway, take the soul of a proud knight, turn 
+around and go back up the ladder.
+
+When you cross the right bridge, it wobbles a lot, but it never crashed down 
+on me, so I don't know if it can. If you cross the left bridge you will see an 
+item across a gap, this is the Iaito blade, it's not very usefull or needed for 
+a trophy, so don't take the risk. If you really want it though, there is a 
+beam sticking out of the walkway, run on to the beam and jump at the very last 
+second to make the jump, this is however a shortcut to the first bonfire, but 
+you will miss out on a very usefull armor set.
+
+On the plateau where the pinkies were standing, there is a ladder going down on
+the left side, don't go down, go to the right of the hut, follow the narrow 
+path and jump down to the shadow set.
+
+In terms of defence, this doesn't offer much protection, but it has the highest
+poison resistance we can have so far, and we'll need it so put it on.
+
+I don't know about you, but I always want to start doing izuna drops and UT's 
+when I'm walking around in this...
+
+Anyway, don't go down the ladder to the left, but jump down in front of you to 
+get a soul of a proud knight, then, jump down again to the left.
+
+Walk forward and destroy the wooden thing and take yet another soul of a proud 
+knight.
+
+Go left and from the plank sticking out between 2 poles, jump to the lower 
+walkway, be carefull as there will be a pinkie and possibly some fire breathing
+rats to bother you.
+
+Kill them and go left to light the bonfire, from here I won't tell you to 
+kindle anymore, you probably already figured that out for yourself a long time 
+ago.
+
+Turn around and go up the stairs by the hanging torch, unless you want his 
+souls, leave the potted pinky, and kill the other one, if you look down from 
+here you will see the fire breathing rats, you can shoot an arrow from here so 
+they will suicide, since they can be difficult to hit.
+
+You will have alerted another pinky, so kill him too and follow the path.
+
+After the stone walkway are 2 more pinkies and a spitter on top of a tower.
+Sometimes the spitter suicides, sometimes he doesn't, there's not much you can 
+do about it now, so just keep moving and take out the pinkies.
+
+When they are gone, move forward and hide from the spitter behind a large 
+wooden pillar near a ladder. Down and to the left you will see some big thing 
+guarding an item, take it out from here with your bow.
+
+Go down the ladder and go right, try to go down the next ladder so you lure 
+pinky down there up to you, then run into the alcove with the soul of a proud 
+knight and take out pinky and the other one you just alerted.
+
+Instead of going down the ladder, go back to the previous one, turn around and 
+go down the ladder where pinky 2 came from, turn right and go up the long 
+ladder to where the spitter is, kill him.
+
+Walk across the walkway and go into the cave on the right, 2 more pinkies here,
+deal with them and follow the cave to the item the big thing was guarding, it 
+is the power within pyromancy. 
+
+Go left ignoring the spitter from down below, who guards an eagle shield, it's 
+not really worth  the trouble of getting it, so I'm not going to.
+
+When you get to the large soul of a nameless soldier, cast iron flesh and take 
+your sword in two hands, kill pinky and the big guy and follow the path.
+
+When you go down the ladder you will see an item on a platform you can jump 
+down to, it's the whip, take it if you want, otherwise go through the fog, both
+routes end up in the same place.
+
+Now things will get nasty, the path is straightforward, only one route to go.
+
+Take out the big bugs as you go. When you come to a platform with a beam 
+sticking out, and a wooden wall protecting from a spitter, walk onto the beam, 
+drop down and head to and take out the spitter. Hiding behind a wall here is 
+the wanderer clothing set and a falchion, whatever you do don't lose this, we 
+need it to create the weapon we will use untill the end of the game in the 
+future.
+
+Continue your route down, at some point you will come to an island in a lake, 
+from here ignore the enemies and start running keeping an eye on the right for 
+a cave with a bonfire, finally.
+
+From the bonfire, head into the cave, in the back is a chest with a dragon 
+scale, use this to upgrade your drake sword.
+
+Back at the bonfire, go outside, turn right and kill the bug, if you are human,
+you will get invaded by Maneater Midred, kill the mosquitoes with your bow and 
+just backstab the hell out of her, you get 8000 souls, 1 humanity, 3 humanity
+items and a butcher knife for this.
+
+To your right, in the back, you will see a white/brownish hill with trees, this
+is where the boss resides, but before that, let's do some side trips while we
+are down here.
+
+If you go right, you will see torches on an island, on that island is a slope 
+going up. Go there and climb the ladder.
+
+Step on the elevator, and at the top get off, climb the ladder to your left
+and instead of climbing the next ladder, go around the left.
+
+Keep following the path, killing bugs, untill you reach a corpse with the 
+crimson clothes and the tin banishment catalyst. Also open the chest with
+the remedy sorcery.
+
+Go back to the ladder we skipped. Climb up and follow the path untill you reach
+a corpse with a soul of a proud knight, from here go around the path, killing 
+spitters as you go, then take the ladder down and kill all rats.
+
+Take out the final spitter and his rats in the alcove to your right, then take 
+the Firekeeper soul.
+
+If you go back to the start of the 'spitter alley', you'll see a ladder. Take 
+it up and follow the only pathe you can take, all the way up to a chest with
+the key to New Londo.
+
+From there, move forward and take out the 3 giants one at a time and go 
+outside. Cross the bridge, take the soul of a nameless soldier and open the
+gate.
+
+You now have created a shortcut to New Londo Ruins and from there you can 
+easily make it to Firelink if you want. Head back into Blighttown. 
+
+From the bonfire, go left this time, past the island we originally came from,
+to a giant branch, near the end of it you will see an item down below, jump
+down and take the green titanite shard.
+
+Get back up the branch and inside the tree. Take the plank shield from the 
+corpse, and slash your sword to destroy the fake wall to the left of it.
+
+Open the chest with the twin humanities, and again destroy the fake wall behind
+the chest.
+
+++++The Great Hollow++++ [greho1]
+
+Just follow the path to reach the bonfire, here do your thing and equip the 
+crimson set, this has the second highest curse resist in the game and there are
+a lot of frogs coming up.
+
+From here just follow the branches down, ignoring all the items you see 
+scattered around, they require jumping and falling to collect and it's nothing 
+you can't obtain otherwise.
+
+Just keep going down, killing the frogs as you go, but be carefull not to get
+cursed.
+
+When you are near the bottom, the branches will become mushrooms, just keep
+going, ignoring the enemies.
+
+When you go through the fog, you will be at...
+
+++++Ash Lake++++ [ashla1]
+
+If you look to your left you will see a 7-headed monster called hydra (I tought
+hydras had 9 heads). If you look right you'll see a bonfire, go there first.
+
+You can take on the hydra now if you want, it's not that hard. Stand at the
+edge of the water and wait untill it drives its heads into the sand/ash, 
+missing you completely. Now start hacking its heads one by one to take them off
+and eventually kill it. You'll get 10k souls and a dragon scale for it.
+
+But there is an easier way, just run past it, keep running picking up the 
+dragon scales as you go all the way to the back of the area, just be carefull
+you don't fall into the water, you will drown.
+
+In the back of the area you will see another bonfire and a huge dragon, this
+is the path of the dragon covenant. Upon joining you will get the dragon eye,
+and the dragon head stone. If you go behind the dragon and cut off its tail you
+get the dragon greatsword.
+
+Now, back to the hydra.
+
+When you return from the dragon, the hydra should be waiting for you, turn
+around, rest at the bonfire again and when you go back, the hydra should be
+going back too. At some point it vanishes, giving you the 10k souls and dragon
+scale.
+
+When you reach the area with the clam type enemy, just past is is a dead tree
+you can go up. Kill the frog at the top, but don't go in, instead look down to
+your right, you will see a small piece of wood sticking out between two roots.
+This leads to the Great magic barrier miracle - creds for this go to whoever 
+posted it on darksouls.wikidot.com, wouldn't have found it without, thanks-
+
+Aside from some easy to see item collecting, there is not much more we can do
+here, so go back to the bonfire in Blighttown.
+
+++++Blighttown++++ [bligh2]
+
+From the bonfire, go right, when you get to where the elevator is go to the
+first pillar you see, sitting on the left side will be Quelana of Izalith,
+another pyromancer( if you haven't upgraded your flame to +10 she won't
+appear). Buy everything you can from her and let her modify your flame to a 
+stronger version too. Make Great Combustion a priority however, it's one of the
+most usefull and powerfull pyromancies in the game. 
+
+Now talk to her a few times and when she starts to repeat herself, go to the 
+bonfire and rest, return to her and talk again.
+
+Repeat this untill she asks you to kill her mother. We were going to have to do
+this anyway at some point, might as well get an extra reward out of it. I will 
+inform you to get it when the time comes.
+
+If you can't buy everything from her and upgrade your new flame to the max., 
+don't worry about it, our next main objective is to collect an item that will
+allow us to warp between bonfires so she will be easier to reach, although this
+is going to take some time.
+
+From Quelana, go a little forward and right to get a Large titanite shard, this
+allows you to upgrade your weapons from +5 to +10, but you'll need to modify it
+to +6 at Andre first before you can do it yourself.
+
+Head to the island with trees, but stay on the right side of the lake, on the
+left side are stone throwing giants who you don't want to mess with.
+
+++++Quelaag's Domain++++ [quedo1]
+
+Just walk forward towards the fog, ignore the 2 egg-covered dudes, they won't 
+attack you and when you kill them they will spawn annoying worms, so just leave
+them.
+
+Go through the fog.
+
++Boss+ Quelaag
+
+Too bad for the lower part of her body...
+
+When the fight starts, she will jump you and breathe lava, don't step in it.
+
+The easiest way to fight her is to just get close and bait her to do her sword
+attack, if you get to the right of her spider face up against her, she can't 
+hit you, after the first strike, attack a few times and wait out her next move.
+
+If she stops moving completely, back off asap, she will do an AOE attack which 
+hurts, get your shield up to absorb some of it.
+
+When she raises her legs, back off too, she will stomp the ground.
+
+She will also spit lava around the area, while she is spitting, this is
+another good time to do some damage, just be carefull you don't get surrounded.
+
+If the part of the area you are fighting is getting covered in lava, just go
+somewhere else, it's a large room with a lot of space to move around.
+
+You'll get 20k souls for beating her and the soul of Quelaag, whatever you do,
+DO NOT USE IT TO GET SOULS! Especially this one, because with the falchion we
+got earlier, and this soul we will create the weapon we'll use for the 
+remainder of the game.
+
+And for a visual, copy and paste this to your URL:
+
+http://www.youtube.com/watch?v=uZFi15L3JPg&feature=plcp
+
+If somehow this fight is too hard you can go to the fog in human form to summon
+Maneater Mildred to help you, like Sol with the gargoyles she won't do a lot 
+of damage, but provide a good distraction. You will only get 10k of souls
+however and no sunlight medal.
+
+Go up the stairs in the back of the room and through the door, you will see a
+lever, pull it. This was the second bell of awakening and you have just 
+completed your first main objective, congrats!
+
+Before we head all the way back to the firelink shrine, there are a few things 
+left to do down here.
+
+Go down the stairs to your right, on the right hand side of the wall in this 
+room is a piece of wall that looks a little different from the rest, strike it
+to reveal a secret room.
+
+Don't attack the egg creature, talk to it and it will ask if you are a new
+servant, awnser yes, if you say no just once, you'll have to kill it to get 
+past it and lose the chance to get 2 pyromancies a little later.
+
+Use the bonfire if you wish, and talk to the white spider chick.
+
+This is the chaos servant covenant, upon joining you get the great chaos 
+fireball pyromancy, if you give her 30 humanity you'll get chaos storm 
+pyromancy. Doing this will also open up a shortcut later in the game,You don't
+have to do this now if you don't have the humanity, we'll be back here 
+later, I'll give you a heads up when the time comes.
+
+Take note though, if you do this now, you will either need to stay in the 
+covenant, open the door now (skip to [demru2] for info how to get there), or
+leave the covenant through Oswald, so you won't lose your rank when you rejoin.
+
+She can also upgrade your estus.
+
+The egg thing can upgrade your flame for you if you want, and if you return
+to him with an egg on your head he will sell 2 more pyromancies, let's do so
+now.
+
+Go out and turn right through the hole with the red glow.
+
+++++Demon Ruins++++ [demru1]
+
+Rest at the bonfire and unequip your weapon, also remove your headgear.
+
+Strike any of the egg things with your fist to turn it hostile and just stand
+there until it grabs you and uses it's worm to bite you. You have now been
+infected and after some time you will grow an egg on your head, just head back
+to the chaos servant room and when the egg pops, this will take
+a few minutes, talk to eggie.
+
+He will give you an egg vermifuge you can use to get it off, but more 
+importantly, he will now sell poison mist and toxic mist pyromancies. 
+
+There is one more thing to do down here, go back to demon ruins, go down the 
+slope and make a right u-turn when you can. Cross the bridge and go through the
+fog.
+
+Follow the path and when you see a huge creature, don't attack it. Go to the 
+back of the area and go right, take the item, the gold hemmed black cloak set,
+a great piece of equipment we will be using for the rest of the game. The only
+downside is that it has zero curse resistance, but we'll only fight one more 
+enemy that uses it anyway.
+
+When you take it, the boss gets angry.
+
++Boss+ Ceaseless Discharge
+
+Don't fight this thing straight up, you can't win.
+
+Instead run like a pussy into the side path on the left, where it can't hit you
+and wait for it untill it gets to the other side of the rock you are hiding 
+behind, now show yourself, staying where you are and bait it into attacking.
+After the attack, run as fast as you can back to the fog you came from.
+
+Here he can't reach you, but will still try to attack you. As soon as his hand 
+slams on the ground, run up to it and start slashing, after 4 or 5 slashes it 
+will die.
+
+If something goes wrong and you die before you can do this, you'll have to do
+it the hard way.
+
+Get into the side path where he can't hit you. You'll notice he uses a 
+different attack now, a huge tentacle will slam down with a blaze of fire,
+hide behind the rock and when the blaze dissipates, start attacking the 
+tentacle, it will take a while to kill it, but isn't that hard.
+
+You'll get 20k souls for this and a new path will open up. The enemies down
+there are really strong and we can't get to the final boss of the area yet, so
+go back to the firelink shrine.
+
+Here's yet another video:
+
+http://www.youtube.com/watch?v=Atk-zY3AWw4&feature=youtu.be
+
+++++Firelink Shrine++++ [firsh4]
+
+The first thing you'll notice is that the bonfire is out. If you try to light 
+it, you'll get a message saying the keeper is absent, let's go check it out.
+
+When you get down there you can take the dingy clothes set and the black eye 
+orb, this will allow us to invade the world of whoever killed her, do you
+notice someone else missing down here? You'll get a message when it's time for
+payback.
+
+If you haven't bought all pyromancies from Laurentius yet, now is the time to 
+do so, if you talk to him he will ask you to show your new pyromancies, you'll
+have to agree to go on, but if you leave firelink now, he will be gone forever,
+so buy everything.
+
+Now go to where the pool of water was and talk to the serpent-like creature, 
+this is Kingseeker Frampt, he will tell you to go to Anor Londo to get the
+Lordvessel, our next main objective.
+
+We need to go through Sen's fortress to get there, but head for Andre the
+blacksmith first.
+
+When reaching Andre upgrade the falchion we have to +6 using the large titanite
+shard we got back in Blighttown, if we find more, we can upgrade it to +10 
+oursleves.
+
+Go back up to the bonfire and go through the door here.
+
+++++Sen's Fortress++++ [senfo1]
+
+Walk across the bridge and enter the fortress, if you look down, you will see
+a pressure plate, don't stand on it yet.
+
+Instead walk past it on the left side and when you reach the first pillar, wait
+You'll see a snake-man like creature coming to you from the far right side of 
+the room, wait untill it's in the center, lock on and walk backwards over the 
+pressure plate, the spikes should kill it.
+
+If you walk in further you'll alert a second snake. You'll find that the drake
+sword doesn't really hurt them, but they are weak to fire, so either backstab
+and fireball them, or just use pyromancies, a new weapon is inside this 
+fortress, so deal with it for now.
+
+To the right of the door is a soul of a brave warrior.
+
+Go through the door and lay your eyes on what makes this place so nasty,
+swinging pendulums on a narrow bridge, before you cross, take out your bow, 
+and shoot the snake waiting for you ahead, he'll come running and should get
+knocked of by a pendulum. If you get knocked off, you'll take damage and fall
+into a pit with a total of 3 lightning shooting demons.
+
+Anyway, on the bridge there will be small parts chipped off it, this is where 
+pendulums swing, so move your camera above your head to see how far you have
+to walk.
+
+After the first 4 pendulums, a female snake starts shooting lightning at you,
+run past the fifth pendulum and from the safety of the windows on the other
+side, snipe her.
+
+Follow the path up to another pendulum trap, 4 this time, just cross them 
+using the same technique, camera above head to see where you and the pendulums
+are.
+
+At the end is another pressure plate, so roll to the side to avoid the darts
+and open the chest for 2 large titanite shards.
+
+Continue the only route you can take, cross the bridge, don't go down, we'll
+get there later and outside to a new kind of trap, rolling boulders.
+
+Outside the door, go right and down the slope, kill the snakes and talk to the
+fat guy, he doesn't say much but after obtaining the lordvessel, this enables
+us to get another miracle.
+
+Now go all the way up the slope, into the small room to get the ring of steel
+protection, this raises your physical defence so equip it.
+
+From the top of the slope, roll to the corner onto a platform with the shotel,
+a unique weapon with the ability to go around shields, pretty usefull when 
+upgraded.
+
+Walk back up the slope and go left through the fog. Follow the path and kill
+the snake that's hiding to your left.
+
+Wait for the boulder to start going around the corner, and follow it, be 
+carefull you don't touch it, it hurts.
+
+Downstairs, stand in the hallway on the left and wait for the pit the boulders
+fall into gets full, the next boulder will go through the wall so you can take
+the covetous gold serpent ring, this is a great ring as it raises your item
+drop rate with 200 points.
+
+Go back and right, and DO NOT try to open the chest, it's a monster that will
+eat you if you try, just start slashing and don't stop untill it dies, if for
+some reason you can't kill it quick enough, just circle, wait for an attack
+and slash. It drops the ligthtning spear, our next weapon, so equip it.
+
+In the back of the room, on the left is an elevator, stand on it and turn 
+around. As soon as you can get off, do so. If you are too slow the elevator 
+will drive you into spikes on the ceiling, which hurts.
+
+Go up the stairs, through the cell door, if you cross the bridge into the next
+room, there will be another cell door, we'll open it later.
+
+Anyway, go down the stairs and up the slope, into a room with a contraption   
+that lets you steer the boulders.
+
+Turn it counter-clockkwise once, wait for a boulder to fall, turn it again and
+go down the slope. Kill the snake, and go into the newly opened passage.
+
+The guy in the cell is Logan, another sorcerer, with the master key you can
+free him. After beating this area's boss he will be at firelink to teach you
+sorceries if your int. is at 15 or higher. The item is a soul of a hero.
+
+Now take the route back to the boulder room.
+
+Turn the handle so there will be no boulders falling into the second trap,
+This is the one next to a door, and drop down from the right of the broken
+pillar, take the large soul of a proud knight and go through the nearest door,
+take the black sorcerer set and hush sorcery from the corpse, and open the cell
+door up the stairs, now turn around and go back, through the hole in the wall,
+and take the slumbering dragoncrest ring. You can drop down further and fight
+3 lightning demons or just use a homeward bone and get back to undead parish.
+
+Go all the way back to the boulder room.
+
+To the right of one of the boulder's paths is a door, through the door is
+another pressure plate, step on it and move back. Wait untill the spikes are
+done and continue.
+
+Follow the path untill you come to the next pendulum bridge, this one is
+especially nasty, because you have to get past all 4 at once, just creep up
+to the first one as close as possible, and when you get the chance, run like
+your life depends on it, oh wait, it really does.
+
+In the next room to the right is another snake, past that snake is a hole in 
+the floor, don't fall into it, unless you want to fight 3 lightning demons.
+
+To the left is a she-snake on top of the stairs, kill her but don't go up yet,
+instead go past the stairs on the left, to another snake, guarding 2 large
+titanite shards.
+
+Now go up the stairs to yet another pendulum trap. This one isn't as nasty
+as the last one, but this time there is a she-snake waiting to snipe you on
+left, kill her first. Be carefull, you have to take 2 pendulums at a time on 
+this one.
+
+When you cross the bridge and go left, there will be nothing there, so go right
+and up the stairs, watch out for the pressure plate though and cross the fog.
+
+Praise the sun! We're outside. If you go right here you will come to a knight, 
+it's a little stronger than the ones we faced back in Undead Parish, but 
+shouldn't pose a problem by now, continue the path to another one guarding a 
+flame stoneplate ring.
+
+Go back to were you came from and go left up the stairs this time.
+
+Don't take the items yet, just keep going up untill you have a clear shot at 
+the giant throwing fireballs at you, snipe him.
+
+Now go collect the 2 large titanite shards and the large soul of a brave 
+warrior. On the level where the soul is, you'll see a piece of broken wall,
+jump down to a bonfire. Upgrade your lightning spear as far as possible, if 
+you can, upgrade your bow, and upgrade the falchion all the way to +10 if you
+can. Now follow the path, drop down to the stairs, and go back outside.
+
+When you get back up to the level where the titanite was, instead of going left
+up the stairs, go straight. There will be a big knight waiting, you know the
+routine by now, just circle and kill, you can't backstab him.
+
+Continue the path down the ladder and up to a soldier who drops Ricard's 
+rapier, I am not sure if you need it for the knights honor trophy, but take it
+anyway. At the end of the path is a chest with a divine blessing and a chest 
+with a rare ring of sacrifice. Go back to where we sniped the giant.
+
+Go up the stairs and cross the bridge, turn left when you can and jump the gap
+to a merchant who sells some good stuff. He sells titanite shards, large 
+titanite shards and green titanite shards, whenever you need to upgrade weapons
+and need titanite, go here, don't worry he'll be easier to reach in the future.
+He also sells arrows, buy at least 150 feather arrows.
+
+In this tower, go all the way downstairs, to a she-snake guarding the cage key.
+
+Go back up, cross the bridge, and when you get to the end go right, left is a 
+dead end with nothing there.
+
+In the building open the left cage and step in and immediatey get out, this is
+a shortcut from the first pendulum trap.
+
+Go outside, follow the path and kill the sniper. Inside the building, to the
+left is fog leading to the boss, to the right is a staircase leading to where 
+the giant was, if you didn't die between killing him and getting here there
+should be a titanite chunk.
+
+If you go down and right across the bridge, you come to a room where you can
+summpn Iron Tarkus if you're human, The coming boss is pretty easy, so don't 
+bother.
+
+Go back, go right through the fog and meet the next boss.
+
++Boss+ Iron Golem
+
+The first thing you'll notice is that the plateau you fight him on is pretty 
+small, here also lies the biggest risk: you falling off.
+
+In the center is some sort of broken down wall, try to keep him here.
+
+When the fight starts, he will do some sort of shockwave attack with his axe,
+it shouldn't hit you.
+
+Lure him to the center and start circling him up close, with his axe he
+shouldn't be able to hit you. Watch out though, if he raises his free hand, he
+will do a grab attack, get behind him to avoid. When he raises his leg he will
+stomp the ground a few times, back off.
+
+For the rest it's pretty straightforward, just keep poking the same leg over
+and over when you can, eventually you'll stagger him, keep poking so he falls
+down and poke some more.
+
+If you have an upgraded pyro flame, and also combustion/great combustion, you 
+can do some real damage with that as well. 
+
+You'll get 40k souls and the core of an iron golem for beating him.
+
+Here's a visual on how to beat it:
+
+http://www.youtube.com/enhance?feature=wenh&v=ELyeo2i5YFM
+
+Afterwards touch the yellow ring that appeared.
+
+++++Anor Londo++++ [anolo1]
+
+What the f***, get off me, oh wait, you're helping me.
+
+When you're back in control, just follow the path untill you reach a giant 
+knight. These guys are real easy, circle them untill they do a shield bash,
+then throw a fire orb and poke them some to kill them.
+
+If you look inside the building, you'll see 2 of them, lure the first one out
+with your bow, and kill it. Don't waste an arrow on the second one, just go
+inside and kill it. In the chest you'll find a demon titanite.
+
+Outside there are 3 ways to go. To the right is an elevator down, straight is
+a building with 2 more knights and  2 treasure chests and to the left a 
+bonfire, go there first.
+
+The chick standing against the wall is Anor Londo's firekeeper, if you have a 
+firekeeper soul, she'll reinforce your estus.
+
+Now go outside and left into the building, there are two giant knights here,
+if you stand in the doorway you can snipe them both without them coming to you.
+
+The left treasure chest holds a twinkling titanite, the right one is another
+monster, dropping a crystal halberd.
+
+The door to the right leads to another giant and a path to some orange fog we
+can't cross yet, so now go to the elevator.
+
+Go down the stairs and outside on the bridge you'll have to fight a gargoyle.
+Like the gargoyle boss from long ago, you can cut off it's tail and it will
+drop a weapon, don't worry if it fails though, you don't need this one for the 
+trophy.
+
+When it's dead, go back to the stairs you came from and drop down to the left
+of it, follow the path to a chest with a demon titanite, now turn around, go 
+through the archway and climb up on the support beam thing sticking out of
+the building to the left. Be carefull you don't fall of, the camera will get
+shaky while it is between the pillars.
+
+Go through the broken window and take out the ninja that drops down, and the 
+other one in the back.
+
+Climb the ladder and cross the narrow beams, be carefull you don't fall off or 
+you'll die. The ninjas up here will throw knives at you when they see you,
+just raise your shield and wait, eventually they will come to you so you can
+kill them.
+
+About halfway across the beams, you will see an item on a chandelier, break
+the chain with your weapon so we can pick up the item later.
+
+At the other end you will see fog and a stairs going down, this is a dead end 
+with nothing there so go through the fog.
+
+You'll come to a bridge with an elevator, pull the lever once to go down.
+
+One side leads back to the other elevator and the bonfire past it, the other
+side leads to our next destination. If you go down the stairs you come to the
+ground floor of the building we just exited, but let's leave that for now and
+do that later.
+
+If you pull the lever again you'll go down one more floor leading to a bonfire
+and a ring of the sun's firstborn. Remember this place, we'll come back here
+later. Pull the lever to make the elevator go back up one level.
+
+You'll get attacked by another gargoyle, put him out of his misery. Up the
+stairs will be 2 giants, go to one side of the stairs to lure one out and kill 
+it, then go up the stairs and kill the other one.
+
+Stand on the hex-shaped plateau on the right side and snipe the far mini 
+gargoyle. It will come to you, these things have a high lightning defence, but
+seem to be weak against fire, so fire orb it.
+
+Go through the door and down the stairs, instead of fighting the second one,
+just lock on, keep your shield up and endure his attacks, you'll notice you're
+pushing it backwards and eventually off the edge, the sucker can't fly. 
+Around the corner to the left is another one, do the same.
+
+Now things get tricky, in the building below you are two more non-flying 
+demons, on a ledge to the left are two snipers you can't reach yet, but they 
+can hit you.
+
+Go down the slope, aggro-ing the demons, turn around and run all the way back
+up the slope. The demons can't follow you and from the edge of the slope, the 
+snipers can't hit you, so put some arrows in the demons heads.
+
+When they're gone, run down the slope, go left, up the slope with your shield
+up.
+
+Time to take care of the snipers, I have read a lot about people luring the
+right one into jumping to his death by approaching him, this never worked for
+me, so I just shoot him. Here's what to do.
+
+Stand behind the wall untill he stops shooting, go into aiming mode and with
+just a small piece of the wall on screen aim your crosshair to be just 
+slightly left of him. Now walk right, he'll start shooting, when the center
+of your crosshair is on his bow, shoot and get back, you don't have time to 
+shoot twice. Wait untill it stops shooting and repeat.
+
+You can also try poison arrows, the success rate is small, but you can just 
+wait for him to die if it connects.
+
+I know this isn't a good description, but I don't know how to make it more 
+clear, just practice. If you can't get this done there are probably videos
+on YouTube showing the luring technique and probably even the shooting
+technique.
+ 
+Now for the second one, as you go up the slope, you'll hear him shooting the
+pillar, go up on the ledge, and go stand in front of the third window to the 
+right, he can't hit you, but you can hit him, enjoy. He guarded a soul of a 
+hero.
+
+-cocoloco wrote:
+I wanted to suggest an alternative method to dealing with the Sniper Archers in
+Anor Londo.
+ 
+Equip the Ring of fog and run up the first ramp. They will not see or fire on 
+you. Then peak out the right side first, carefully line up your bow on the 
+Archers head and repeatedly keep firing. The shots will stagger him continuosly
+and he won't even be able to get a shot off.  Rinse and repeat for left Archer.
+
+so, creds to cocoloco for this- 
+
+Get back on the ledge and follow it around the building untill you can drop 
+down and go through the fog. Open the first door on the left and go into the 
+room, finally, a bonfire. If your falchion isn't +10 yet, do so now.
+
+Solaire will also be sitting here, make sure to talk to him untill he starts
+repeating himself if you want him to keep helping you.
+
+Go back out and open the other door, kill the silver knight, these guys are 
+easy, just backstab them once, stand close to them and when they get back up,
+poke them untill they die. If any of them in this area drops a silver knight
+shield, equip it, it will come in handy against the coming boss. They give 1000
+souls for killing them, making this area good for grinding if you need to.
+
+The treasure chest holds 3 sunlight medals.
+
+After exiting the room, go around the stairs, open the door on the left.
+The fireplace in this room has a fake wall, downstairs are 4 chests holding
+Havel's armor set, his greatshield and the dragon tooth, the fifth chest,
+the one with a different color is another monster, it drops the occult club.
+
+Back up and outside we can't open the other door yet, so go up the stairs.
+
+Up the stairs, open the door to your left, kill the knight and take the soul
+of a hero. If you look down from the balcony, you'll see another lightning
+demon, there is one spot in the area the knight was where you can shoot it.
+It's a little hard to find and even harder to describe, so search for it and
+kill it. If you want the item it dropped, make sure you don't die.
+
+Through the other door across the hall is nothing.
+
+If you go to either side of the stairs, you will see a treasure chest, both of
+them are monsters, one drops 5 silver coins, the other 1 gold coin.
+
+At the end of the hall is another sniper, finish him.
+
+From the sniper the door to the left can't be opened yet, so go right.
+
+Behind the next door is a knight waiting to ambush you, you know what to do.
+
+Up the stairs and outside will be another sniper, kill him but do not go into
+the building yet, instead go back to the other side and lure out the knight
+in the other building. Kill it and go down the stairs.
+
+If you talked to the fat guy back in Sen's Fortress, he will be standing here
+complaining about the knights in the next room. There are 3 of them, 2 you
+can see, the third one is hiding behind the door, lure them out and kill them,
+being carefull not to hit Siegmeyer.
+
+When the knights are dead, open the chest behind the bed, it holds 2 demon 
+titanites, unlock the other door to create a shortcut and go back and talk to 
+Sieg, he will give you the tiny being's ring, but more importantly, after
+killing the boss, he will be at firelink to give us a miracle that can't be
+obtained otherwise.
+
+Go back to the roof and into the building the sniper was at. Down the stairs
+will be a door to the left, one to the right and another stairs going up. Go
+left first.
+
+This is the room the demon was we sniped earlier, if you haven't died before
+coming here, he will have dropped 2 demon titanite.
+
+Through the other door are 2 knights, lure the first one up before killing him.
+Then go down, take out the other and open the chests holding the silver knight
+armor set. Open the door to create a shortcut, near the bonfire this time, so
+go there, rest and reverse your hollowing if needed.
+
+Go back to where you came from taking out the knights as you go and go up the 
+stairs to the right.
+
+On the other side of the room you will see a sniper, leave him for now and go
+left, up the stairs. If you go through the broken window, you can get to a 
+fenced area with the dragonslayer greatbow on a corpse, you will need this to 
+get the knights honor trophy, but make sure you have either the homeward
+miracle and a talisman or a homeward bone with you because I don't think you
+can get back out otherwise.
+
+-Ykks wrote:
+
+A little tip: After obtaining the dragonslayer bow there's an opening to the 
+right where you can drop down to the area just outside the new blacksmith (in 
+other words, no need to homeward.
+
+So, creds to him-
+
+Past the broken window, before the stairs, go through the door on the left,
+all the way downstairs is a giant blacksmith, he can upgrade +10 weapons into
+boss soul weapons, this is why we needed the falchion at +10, go there and 
+create Quelaag's Furysword. I really love this weapon, it's scaled with 
+dexterity and a little with strength, its damage output is on par with the
+black knight sword, but its much faster. It is also fire elemental, which can
+be a downside against certain enemies, but mostly that doesn't matter.
+
+Upgrade it as far as you can, using demon titanites and go test it out on the
+demons outside, oh yeah also take the titanite chunk and open the gate to the 
+right of the door to create another shortcut.
+
+You like? Anyway, go back inside the building to the left of the blacksmith is
+a chest you can reach by rolling to it, it holds the hawk ring which boosts
+the range of your arrows.
+
+By the way, if you have the Uchigatana from the undead merchant and the shards
+for it, upgrade this to +10 and then lightning, this will come in handy in the 
+future. 
+
+Go back inside, take out the knight and shoot the giants from the stairs.
+
+If you are human you should see a summon sign, again this is sol, so boss 
+fight, but before that, if the firekeeper at firelink died, you will now get
+a message saying the black eye orb is quivering.
+
+If you use it you'll get teleported to the realm of the murderer, just keep in
+mind you are a phantom and therefore the only way to heal is by using humanity,
+so make sure you're at full health.
+
+When you use it you will see 3 guys, Lautec, a sorcerer in red and some guy 
+with an axe in white. You only need to kill Lautec, so go behind the pillars on
+the left side, walk forward untill one of them sees you, cast iron flesh and
+target and take out Lautec. When done you'll get a souvenir of reprisal, we'll
+need 10 of these to get a miracle from the darkmoon covenant, more on that
+later, a firekeeper soul, don't use this to upgrade your estus, instead take 
+it to the firekeepers prison and revive her. You also get a ring of favor and
+protection and 5 humanity. The ring raises your hp, stamina and max equip load
+so equip it, but keep in mind that when you take it off, it breaks, so if you
+change rings pay attention.
+
+The boss is quite hard so summon sol.
+
++Boss+ Dragonslayer Ornstein and Executioner Smough
+
+Like I said, this fight is hard, possibly the hardest in the game.
+Either of them alone wouldn't be so bad, but the 2 of them, geez.
+
+What you get at the end of the battle is decided by who you kill first.
+
+The easiest would be to kill Ornstein first, Smough takes his powers and grows,
+at the end you get Smoughs soul.
+
+If you take out Smough first, Ornstein gets Smoughs powers, and becomes really 
+hard to beat, you'll get Ornsteins soul afterwards.
+
+Here's the thing, you need both souls to create a weapon if you want the 
+knights honor trophy, so if this is your first gamecycle, I suggest killing
+Smough first now, because in NG+ it's nearly impossible to kill the powered up
+Ornstein.
+
+Anyway I'll try to provide a good strategy for both.
+
+Ornstein first:
+
+With sol, just whack away, trying to steer clear of Smough, Ornstein is weak 
+against fire so he should go down pretty quickly, just don't go overboard in
+your agression, his attacks hurt. When he's dead, take out your bow and start 
+walking backwards, if smough attacks, roll out of the way and shoot. Repeat
+untill dead.
+
+In patch 1.05 an easier and safer approach would be to equip havel's armor and
+go in alone. Ornstein doesn't jump around nearly as much anymore so just close 
+in and have at it. Don't worry about Smough too much, his attacks aren't that 
+bad. 
+
+Since Ornstein is weak to fire, combustion/great combustion with an upgraded 
+flame will destroy him.
+
+Anyway, when Ornie is down, get close to Smough so most of his attacks miss,
+and just whack away, keep your weapon in one hand though, whenever he jumps up,
+block with your shield to absorb the attack and take the time to heal while
+Smough gets up.
+
+Smough first:
+
+Make sure to take sol with you, he should keep Ornstein busy, while you take 
+down Smough, circle and attack when you can. If he jumps back off.
+Now comes the hard part, Giant Ornstein is no pushover, his attacks hurt, a
+lot, and he has lost his weakness to fire.
+Try to stay close to him so his attacks go over your head, but be carefull,
+if you see lightning on his spear, get out! He will do a grab attack that will 
+probably kill you, even at full health. He also has a nasty jump attack that
+sends a wave of lightning around him, back off when he jumps. The key here is 
+to stay patient and wait out your chance to strike.
+
+Good luck.
+
+When the battle is over you get 50k souls either the soul of ornstein or smough
+and ornstein should have dropped the leo ring.
+
+If you need a visual for Ornstein first, check this link:
+
+http://www.youtube.com/watch?v=RJf9wu6gb3o
+
+A video on killing Smough first:
+
+Coming soon!
+
+In the back of the room, go up one of the elevators and light the bonfire.
+
+If you killed Lautrec via the black eye orb, you'll find his armor on this 
+balcony, close to the wall where you entered the room from.
+-Luis Carlos Flores Luna reminded me of this, so creds go to him-
+
+Go through the door and you'll meet Gwynevere, the biggest chick I have ever 
+seen, she'll give you the lordvessel, which you need to capture the souls of 
+lords that started the shit you live in. It also allows you to warp between 
+bonfires, which is going to save us a lot of walking around.
+
+If you talk to her again you can join the Princess's guard covenant and get the
+ring of the sun princess. 
+
+You can also kill her to turn Anor Londo dark, which effectively opens it up 
+for constant invasions by Darkmoon Blades, players in that covenant who are 
+there to kill you.
+
+Be carefull however, as this Anor Londo can pit you against up to 3 people at
+once.
+
+Now warp back to firelink.
+
+++++Firelink Shrine++++ [firsh5]
+
+With the firekeeper soul in your possesion, go down to the firekeeper's cell
+and return the soul where it belongs, she can even speak now, although she
+doesn't want to.
+
+Siegmeyer should now be at the bonfire, talk to him to get the emit force 
+miracle.
+
+If you talk to Frampt now, he will tell you to put the lodvessel at the fire 
+altar, if you do however, you will lose the chance to join the Darkwraith
+covenant later.
+
+Now its time for some sidetrips.
+
+If you go to the elevator to Undead Parish, make sure you take the left one up,
+about halfway up, step out onto the ledge.
+
+When you stand on the grass, you will see a tower, if you look down you see a
+pillar that is connected to it, from the edge of the grass, you can roll onto
+the pillar and get into the tower, it might take some practice to get it right.
+
+Go up the stairs and roll towards the item on the roof, it's the undead
+asylum 2f west key. If you look to your right you see the bonfire, walk in that
+direction from the edge of the roof, if you look down, you'll see another item,
+roll there to get a soul of a lost undead, now get back into the tower.
+
+Go all the way up the stairs this time to reach a birds nest, walk into it and
+press x and wait a moment.
+
+++++Undead Asylum++++ [undas2]
+
+Back where it all started. First things first, you might remember the voice
+asking for warm and soft at the birds nest. You should now have some items you
+may or may not want to trade, anyway here's a list, on the left is what you 
+give, on the right what you get.
+
+purple moss clump- twinkling titanite
+blooming purple moss clump- 2 twinkling titanite
+cracked red eye orb- 2 purging stone
+dung pie- demon titanite
+egg vermifuge- dragon scale
+pendant- souvenir of reprisal
+prism stone- demon titanite
+pyromancy flame- red titanite chunk
+ascended pyromancy flame- red titanite slab
+rubbish- titanite chunk
+ring of the sun princess-2 divine blessing
+sack- demon's great hammer
+skull lantern- ring of fog
+sunlight maggot- old witch's ring
+sunlight medal- white titanite chunk
+humanity- ring of sacrifice
+twin humanities- rare ring of sacrifice
+xanthous crown- ring of favor and protection
+
+-creds for this info go, again, to whoever posted it on darksouls.wikidot.com-
+
+To get the item, drop yours in the birds nest, step back, quit the game from
+the menu and reload.
+
+When you're done trading, walk towards the asylum, kill the 4 torch guys that
+are dumb enough to come at you one at a time, at the door wait for the two guys
+to come to you and walk inside, shit...
+
++Boss+ Stray Demon
+
+It's the asylum demon's big brother and he's pissed.
+
+This guy isn't much harder to beat though. He has an AOE attack just like 
+Quelaag, just get behind him and stay there.
+
+He also has a jumping attack, stay in front of him to avoid it, and when he 
+lands, get back behind him.
+
+To put it simply, stay behind him, wait for him to do his AOE attack, walk 
+backwards to avoid and attack, that's all there is to it.
+
+When he dies you get 20k souls and he drops a titanite slab.
+
+Anyway, for another vid check this link:
+
+http://www.youtube.com/watch?v=gcBU-Ij5cao&feature=plcp
+
+Keep the slab with you, you can use it to upgrade the lightning uchi to +5, if 
+you created it and together with the furysword you'll have a powerfull weapon 
+for any situation.
+
+Somewhere on the wall, next to a torch, is the ladder out of here(took me 
+nearly 20 minutes to find the first time).
+
+From the ladder, go left and jump down on the right, now if you look left, you
+will see your cell from the beginning of the game, go there but be carefull,
+a black knight will attack you, again, backstab, fireball or orb or whatever,
+he should go down easy by now. He'll drop a red titanite chunk and might drop
+a black knight sword or shield.
+
+In your cell you'll find the peculiar doll, we need this for our next sidetrip,
+so be sure to take it with you.
+
+Now just walk the same route you did in the beginning of the game, untill the
+bonfire.
+
+Now you have 2 choices, go right through the gate or take the long way around,
+this leads to a fight with another black knight, who will also drop a red 
+titanite chunk. Anyway head to the guy that gave you your estus flask, behind
+the wall. 
+
+He is now hollow and will attack you on sight. He drops the crest shield, 
+needed for the knights honor trophy.
+
+Go up the stairs, but watch out, the boulder is back so dodge it.
+
+Follow the path, but before you jump down to get out. go to the end of the path
+where the fog was, open the gate with the key we got from firelink and take the
+rusted iron ring. Head back to the bonfire and warp to Darkmoon tomb, if you 
+haven't been there, anor londo will do.
+
+++++Anor Londo++++ [anolo2]
+
+Call down the elevator, go up the stairs and go left into the building, it's
+the ground floor of the building where we walked on the beams.
+
+Step inside and look around, there are a lot of ninjas here, just lure them to
+you and take them out one by one.
+
+On the floor, near the chandelier in the center of the room, is the sorcery 
+Great magic weapon, this is why we cut down the chandelier earlier.
+
+All the way in the back on the left side is the black iron armor set and a 
+black iron greatshield.
+
+On the wall near here you will see a huge painting, with the peculiar doll, we 
+can enter it. Think about if you really want to do this though, you can't 
+get back out untill you at least reach the boss. There are some nasty enemies
+here but also good treasure and the only spot in the game to farm for souvenirs
+of reprisal without going online, we'll need 10 to get a miracle from the
+darkmoon covenant later. For the sake of the guide, we'll go there now.
+
+
+++++Painted world of Ariamis++++ [paiar1]
+
+Follow the path and activate the bonfire. If you have it, attune Great fireball
+and Great chaos fireball, there are nasty crow-demon like chicks in this area
+and these two will make your life a lot easier, we're also going to spend a lot
+of time farming them for souvenirs of reprisal, I'll give you a heads-up when
+the time comes.
+
+Head up the stairs, and kill the sword guy, also take out the two guys that
+come from the right. Go right yourself, when you see a corpse hanging from a 
+rope with an item, take out your bow and shoot the rope. Pick up the humanity
+and go up the stairs.
+
+Up the stairs to the right, get your shield up and lock on to the archer,
+back off down the stairs and wait for the 2 swordguys that try to ambush you,
+teach them not to do that again.
+
+Go up the stairs and take out the 2 archers and the two red-egg-heads you 
+probably alerted. Be carefull with these guys, if you kill them with anything
+that isn't fire elemental, they will release a poison cloud upon dying.
+
+Take the soul of a proud knight and go back down the stairs.
+
+You should see a path to the right, take it, go up the stairs and take out all
+the guys, there are 3 of them. When you reach the top of the tower, take the
+soul of a proud knight, but be carefull, 2 of those crow chicks will drop down,
+throw a great fireball and slash them once. They are dangerous because the have
+a jump and grab attack that will probably kill you, when they jump up, keep 
+moving.
+
+Instead of going back the way you came, jump down to a small balcony, opposite 
+of the arch, take the dried finger, this will help you get invaded more often
+when you're hosting pvp fights. 
+
+Finish the guy that tries to jump you and go down the stairs, kill the rats,
+usually these don't attack but they can poison you, and take the soul of a 
+brave warrior. 
+
+Go back up the stairs, and up the stairs the guy came from, step outside and 
+across the bridge you should see an archer.
+
+Go across the bridge, take out the archer and quickly go right onto the plateau
+the archer was standing on, two guys will climb up over the wall and two
+egg-heads will come out of the room you just went through.
+
+After killing them, if you turn around and look down, you will see an item on
+a ledge, you can't jump there, we'll pick it up from the other side later.
+
+Go back into the room and kill egg-head number three, this might alert another
+guy to jump down, it doesn't always happen. To the left of the stairs, go out 
+onto the balcony and cut the rope, we'll pick up the item later.
+
+Step back outside to the archers plateau, and jump down. At the bottom kill the
+rat, go through the door and in the next room kill the other rats, now go up 
+the stairs, killing rats as you go and instead of going up the ladder jump
+to the small ledge with the barrels and take the gold coin. Now go up the 
+ladder.
+
+When outside, go right, drop down, go into the room, take out the rats and open 
+the chest with the painting guardian set. Go outside again, through the other
+door and up the stairs.
+
+Follow the path back into the building and take the soul of a brave warrior 
+the corpse in the window. Instead of dropping down, follow the path to another
+corpse with an egg vermifuge, from here drop down and go outside.
+
+Take the large soul of a proud knight from the corpse and kill the guy that 
+tried to guard it. Now turn around and go into the tower.
+
+If you follow the stairs up you'll find the red sign soaptone, just be 
+carefull, you will be attacked by 2 crow chicks. If you look down, you will see
+a soul of a brave warrior on a ledge, take it if you want.
+
+From the ledge, jump back down to the stairs, and go back outside. Turn right
+and go onto the bridge, take the large soul of a proud knight and the 
+bloodshield(needed for the knights honor trophy) to wake up the dragon.
+Just walk back to the start of the bridge, next to the stairs on the right and
+start arrowing him, he'll breathe a poison mist, walk to the right, down the
+stairs and arrow some more, untill he starts breathing on the lower level,
+go left up the stairs to avoid and keep shooting. Repeat untill dead. He will
+drop a dragon scale.
+
+Go back accross the bridge and to the left side of the tower, down the stairs,
+watch out for crow-chick and through the fog.
+
+Through the door you'll see a cluster of guys with shields and spears, there's
+no real reward nor a notable amount of souls you get for beating them, so 
+just leave them.
+
+Run past them on the left side and all the way to the back, open the double 
+doors to create a shortcut and rest at the bonfire if needed.
+
+Now from this side, go all the way to the left and back of the area to pick up 
+the humanity dropped from the corpse on a rope a while back. Go up the stairs 
+and take the ring of sacrifice, down to your right you should see a well, 
+climb the ladder down into it.
+
+In this cave like area things get pretty hectic with annoying cartwheel things
+messing up your orientation, anyway from the start go forward, at the split 
+right, it's the first one, get out of it's path and wait for it to roll into a 
+wall, wait for it to stop spinning and kill it, carefull, sometimes they 
+surround you from all sides at once and they are hard to see coming.
+
+After killing it, go left, right leads to a dead end, at the next split, go 
+left again, turn left and right to another cartwheel. when it's dead go up the
+stairs. Kill the lone egg-head to get the pyromancy fire surge.
+
+Go back down the stairs and, again left, you should see a piece of wall with a
+different color than the rest, slash it to reveal a passage. At the end turn 
+left, watch out for the cartwheel, and take the annex key.
+
+Now turn around and follow the path to another fake wall, you are now back in 
+the passage you came from, go left and destroy yet another fake wall.
+
+This leads to an open area with 6 cartwheels, be carefull and take them out.
+Take the soul of a brave warrior, turn the handle, opening the door to the boss
+area and also take the soul of a proud knight.
+
+Turn right and go up the ladder, up the stairs and turn right, kill the ambush
+and take the soul of a proud knight, be carefull of the archer shooting you.
+
+Go back inside and through the door on your right.
+
+You'll recognize the area, now from down the stairs go right into the area
+with the corpses on spikes, kill the guys walking around there, if you are 
+human you'll get ambushed by a pyromancer named jeremiah, don't give him a 
+chance to cast anything and he'll go down easily, you'll get 30k souls,
+1 point of humanity and a notched whip.
+
+Take the large soul of a proud knight and 2 souls of a proud knight and from
+the entrance to the far right behind the wall the acid surge pyromancy.
+
+If you get out and turn right, under the archway, at the end is a door, with
+the annex key you can open it, do so and go up the stairs.
+
+When you come to a split, go left first, up the stairs and kill the egg-head.
+
+Do you see the 2 crow-chicks on the tower? If you approach it, one will come 
+down, throw 2 great fireballs at her to kill her without the risk of her 
+falling into a hole, she can drop a souvenir of reprisal, now switch to great 
+chaos fireball, lock onto the second crowchick and walk up the stairs, as soon
+as you're up, throw the fireball, 2 more crows will jump down, with luck, you
+will hit all three, immediately throw a second one to wipe them, or ar least
+one, out. This is where we are going to farm for souvenirs of reprisal, we need
+a total of 10.
+
+What I did was for gear: left hand: shield, talisman
+                         right hand: sword, flame
+                         magic: great fireball, great chaos fireball, homeward
+                         ring: covetous gold serpent ring, whatever.
+From the bonfire, run past the first guy, into the annex, take a left, kill
+egghead, lure out crow, fireball twice, switch to chaos, start spamming it on
+the other crows, switching back to normall fireball when the chaos ran out,
+and finally after they died and picked up possible loot, used homeward back
+to the bonfire. 
+  
+It might seem, at first, they are never going to drop anything, but at some
+point the drop rate seems to get better somehow, almost as if the game 
+realizes you're farming and decides to help you or something.
+
+It might just be me but the same thing happened for me when I was farming the
+weapons for the knights honor trophy, for the last 2 or 3 every first enemy
+dropped it.
+
+Anyway, all in all it took me about 2,5-3 hours to get 10 of them, and don't 
+forget to take the vow of silence miracle. This also gave me around 350k souls.
+
+When you are done, go down  from the tower and take the stairs to the left,
+go left again and take the grand cleric set.
+
+Now go back to the split, go the other way and take the dark ember, this allows
+you to create occult weapons from a divine +5 weapon, this one also goes to
+Andre.
+
+On the way here you passed some wooden planks against the wall, near the split,
+slash them and cross the bridge to take Velka's rapier, again a weapon needed
+for the knights honor trophy.
+
+We now have done almost everything we can here, only the boss is left, so rest
+at the bonfire and attune firestorm.
+
+Take the shortcut into the tower, past the cluster of guys and across the 
+bridge past the newly opened gate, there are a few enemies here and a big
+knight, but he doesn't drop anything usefull, so just run past and through the
+fog.
+
++Boss+ Crossbreed Priscilla.
+
+When you enter she will say a few words, and let you decide if you want to
+fight her or not. Ultimately it's your decision, but she will drop her soul
+and you can cut off her tail for Priscilla's dagger, you guessed it, another
+trophy weapon.
+
+Let's just kill her.
+
+Start by putting firestorm in your casting box, walk behind her and slash her
+tail, she will become hostile and turn invisible.
+
+Walk to the center of the area and cast firestorm, this should make her 
+reappear. Technically, hitting her enough with anything will make her reappear
+eventually, but it can be hard since the only way to tell where she is, is
+by looking for footsteps in the snow and she is quite fast with attacking.
+
+When she has reappeared, lock onto her, circle and start hitting her tail.
+When it comes off, just keep going, you don't want to give her a chance to
+attack you, her attacks cause bleed status, which hurts.
+
+When she is one hit away from dying and her tail isn't off yet, this sometimes
+happens, don't risk it, quit to the menu to start back at the fog and try 
+again.
+
+When she is dead you'll get 30k souls and the soul of priscilla.
+
+For a visual on how to beat her check this link:
+
+http://www.youtube.com/watch?v=iw967IdIoo4&feature=youtu.be 
+
+Take the Xanthous set from the left side of the bridge and jump back down to
+Anor Londo, from here warp to daughter of chaos, and head for the great hollow.
+
+Before you go, make sure you have at least 3 purple moss clumps. When you get
+near the entrance, you'll see Sieg a little further, talk to him and answer 
+yes to give him the clumps and get the pierce shield.
+
+Now warp to firelink and from there go to darkroot garden.
+
+++++Darkroot Garden++++  [darga2]
+
+From the entrance go to  the bonfire near the crest door. Don't go through the
+door, but instead, go around the broken piece of wall to the right of it.
+
+Follow the path and when you reach the fog, turn right, take the large soul of
+a nameless soldier and waste the 3 trees that ambush you, go through the fog.
+
+See the giant on the floor ahead of you? If you come close enough, he will
+get up, so just put him down again. 
+He has a spell that slows your movement, but the spell will be removed as soon
+as it dies, by now you should be able to kill him before he even has a chance 
+to cast it.
+
+Go towards the item and take out the 2 giants and 4 trees that ambush you,
+then take the elite knight set. move back towards the entrance.
+
+A little to the left of it you should see a large tree, and if you pan your
+camera a little, you'll see a path behind it, slash the tree.
+
+Follow the path and take out the red frog like thing, honestly I don't know
+what it can do to you, they never survive long enough to do anything.
+
+Anyway, continue the path and take out the next tree, stick to the right wall
+and when you get to a door, go in and follow the stairs up, take out the giant,
+and at the end take the wolf ring. Go back to the area with the elite knight 
+set.
+
+When you get there, with the entrance to your left, go straight, you'll see
+a narrow path, take it, and at the end take the partizan and kill the tree you
+have awakened.
+
+From the start of the narrow path turn left about 45 degrees and walk untill 
+you get to some ruins, kill the giants as you go, and go in the tower, go up to
+the next boss.
+
++Boss+ Moonlight Butterfly
+
+This fight takes place on a narrow bridge.
+
+When she flies in, take out your bow and start shooting, she has 3 attacks,
+all of which can be avoided by rolling into the side of the bridge she is on,
+you just need to time it right, but by now her attacks shouldn't hurt much 
+anymore anyway.
+
+At some point, she will take a rest on the side of the bridge, take your sword
+in two hands and start slashing. Pretty easy right?
+
+for killing her you get 10000 souls and the soul of the moonlight butterfly.
+
+Her you can find another video, this time killing the Butterfly.
+
+http://www.youtube.com/watch?v=ZCJGqlqfjxs&feature=plcp
+
+- Ultimate_Finale wrote: at the bottom of the tower before the fog, if you
+slash the bush in the corner, you can summon witch Beatrice to make the fight
+even easier, so creds to him for this-
+
+Go into the next tower and when you reach the top take the watchtower basement 
+key and the divine ember. This allows you to modify a +5 weapon into a divine
+weapon, we need one for an area later. Take this ember to Andre.
+
+Go back to firelink and from there into undead burg.
+
+++++Undead Burg++++ [undbu4]  
+  
+Head to the tower right before fighting the Taurus Demon way back in the 
+beginning. Remember the door I told you to skip? Open it now and go down the
+stairs, you'll get attacked by a big knight with a huge club, this thing hurts,
+so be carefull and take him out, he drops Havel's ring.
+
+++++Darkroot Basin++++ [darba1]
+
+Go through the door, you might recognize the area, we have been here to get the
+long bow, way back. Anyway, ahead you'll see an item, its a large soul of a 
+nameless soldier.
+
+To your right, you'll see 4 big crystal golems, lure them to you one by one,
+but stay behind some cover, at the end in the lake is another hydra, this one
+we can't make suicide, but there is a real easy way for this one too.
+
+After the golems are gone, go toward the lake, staying on the right side of 
+the area. Near the lake, you'll see a tree with a rock behind it.
+If you stand at the exact right area, a few steps behind and a little to the 
+right of the center of the rock, you can snipe it's heads through the tree, 
+and it can't hit you, You'll get a dragon scale and a dusk crown ring for
+beating it.
+
+Now take the knight armor set from the lake.
+
+Our next destination would be straight ahead from here, but if you do that, 
+you'll get in deep water and drown, so head for the waterfall first, you might
+want to equip the rusted iron ring.
+
+From the waterfall, head to the back of the lake, sticking to the wall,
+when you can go left, quit the game from the menu and reload, this will spawn
+a golem at the end of this path, kill it and see what happens.
+
+This lovely lady is Dusk of Oolacile. If you go back to where you fought the
+hydra, you'll see a summon sign where you can summon her. She sells sorceries,
+one of which is very usefull in an area not too far in the future, cast light,
+buy at least that and if you don't have a catalyst, buy one from her too.
+
+Now, quit your game and reload, all the way in the back where you met Dusk,
+will be her clothing set, along with a very usefull piece of equipment: the
+Dusk crown.
+
+Although the description onle says it boosts sorceries, it also boosts 
+pyromancies and miracles, so it's very usefull.
+ 
+Go back to the waterfall and just before it go right and up the ladder, cross 
+the bridge, and take the soul of a brave warrior, all the way in the back.
+Turn around and go up the ladder you just passed.
+
+From here, you can take 2 routes, follow the ledge back into our farming area,
+or cross the bridge. Cross the bridge.
+
+Here you'll fight 3 giant black panthers, first 1, then 2 at the same time.
+
+They aren't hard to beat just use standard circling tactics, you might want to
+cast iron flesh after beating the first one and just start slashing, but it's
+not necessary. They do have a nasty grab attack though, which really hurts.
+
+When they're gone, move to where they came fron and take the large soul of a 
+brave warrior and go left towards the glowing flower. If you look slightly 
+right, you will see a bridge, this leads to the next boss, but don't go there 
+just yet.
+
+Instead, go left into the open area, and ignore the small mushrooms, ahead near
+a pond are 2 large ones guarding a treasure, snipe them out.
+
+Open the treasure chest to get the enchanted ember, this is used to upgrade
+a +5 magic weapon into an enchanted one, take this to Rickert in New Londo
+Ruins, we're going there in a little while.
+
+Go further into the area, untill you come to some ruins, first go behind it to
+get the stone armor set from the treasure chest, now go in.
+
+Past the bridge you'll see a cat in the window, talk to it to join the forest
+hunter covenant. This causes the guys we grind to stop attacking us, but the
+covenant is easily broken by just attacking one.
+
+Right next to this building is Shiva of the East, if you talk to him and go to
+Blighttown, near the waterwheel, he will be there to sell weapons and teach you
+a gesture. Hiding behind him is a ninja, who, when killed will drop the dark
+wood grain ring.
+
+Now head towards the fog and our next bossfight.
+
++Boss+ Great Grey Wolf Sif
+
+This thing isn't too hard to beat, but watch out for it's attacks, they hurt.
+
+His two main attacks are swipes with his sword.
+
+When he takes the sword in his mouth with the edge pointing forward, he'll do
+a spin attack, just back off.
+
+When he takes his sword in his mouth with the edge pointing to the side he'll
+do a swipe, this can be one, two or three swipes. After the first swipe, roll
+forward, between his front legs and start slashing untill he jumps away.
+
+Get close and wait out his next move. He also has a jump attack which you can 
+block and some sort of backflip, also blockable.
+
+That's pretty much it, it might take some practice to get this done though.
+
+I have seen videos on YouTube from people who drive him into a corner, get 
+under his head so he can't go anywhere and can't hit you, but I never got this
+to work. If you can, it's even easier.
+
+When he is almost dead, he'll start limping, almost making you feel sorry for 
+him. I have heard rumors you can let him escape, but I can't get it done,
+so I don't think it's true.
+
+When he dies you get 40k souls, the covenant of artorias and the soul of Sif.
+  
+Also take the hornet ring from behind the large tombstone.
+
+For a video on how to do this copy this link:
+
+http://www.youtube.com/watch?v=Jzw0q_GJBIw
+
+Now head back all the way to the start of this area.
+
+As soon as you get out of the lake, stay on the right-hand wall.
+
+You'll get to the winding path from where we took the long bow, go all the way
+down this time. You'll get attacked by a black knight, I won't bother telling
+you what to do with this guy, and just past him is a cave, don't enter it yet, 
+but go down a little further and take the grass crest shield. 
+
+This shield is really usefull, since it has an effect that restores your 
+stamina faster than it normally would, so equip it.
+
+Go back up, enter the cave and rest at the bonfire, follow the path and enter
+
+++++Valley of Drakes++++ [valdr1]
+
+When you enter, you'll see a, well I guess it's a drake, don't approach it,
+just take out your bow and snipe it, if something goes wrong, just get close 
+and lure it into doing a head-butt. Block and counter, getting some distance if
+your stamina gets low.
+
+A little further ahead, there is one more on a bridge and past the bridge 
+another 3, take them all out.
+
+Take the brigand armor set and spider shield from the corpse on the bridge, and
+on the other side climb the ladder onto the tower to the right of the huge
+doors we can't open yet, anyway take the red tearstone ring, go back down and
+back across the bridge.
+
+When you get back, go right. There is one more drake to deal with, as soon as 
+it sees you, lock on and start moving back. At some point it can't follow you
+any further, so get out of it's breath range, take out your bow and shoot it.
+
+Now just follow the path untill you see another dragon guarding a few items.
+It won't do anything untill you take the items, but it's attacks hurt, so
+before you even go there, keep some distance, take out your bow and, well, by
+now you know the rest. You get a dragon scale when it's done.
+
+Now take the soul of a proud knight,dragon crest shield and astora's straight 
+sword, both needed for the trophy.
+
+Continue the path and cross the bridge. The cave to your left leads into
+Blighttown, the only noteworthy item to get there now would be the key to
+New Londo Ruins, across the bridge, but with the master key you don't need it,
+so just cross the bridge.
+
+Going right leads to a dead end with nothing there, left is a large soul of
+a nameless soldier, and the above named door, go through it.
+
+++++New Londo Ruins++++ [nelor1]
+
+Before we explore the area, go left towards another gate, go up the stairs to 
+the right, and take the soul of a nameless soldier, go up the stairs, follow
+the path and pull the lever to call the elevator.
+
+Ride it up back to firelink and rest at the bonfire.
+
+Go all the way back down now and when you're back down, go forward and right.
+
+When you see a guy lying on the floor, go left down the stairs and talk to
+Rickert of Vinheim in his cell. This is another blacksmith, this one can
+modify your weapon into a magic one, very usefull with an int. build, but
+not so much for us. You can also give him the enchanted ember we picked up back
+in darkroot, with a +5 magic weapon Rickert can enchant it. He also sells some
+sorceries and a catalyst.
+
+Go back up the stairs and follow the right hand wall to another door, go 
+through it and follow the path. You'll see a corpse in a vase, detroy it to get
+2 transient curse.
+
+Up ahead is a ghost infested area, they can only be hurt if you are either 
+cursed by a frog or are under influence of a transient curse, they can also
+be bought from the merchant in the cell in undead burg if you run out.
+
+Continue the path, and when you are at about halfway across the second bridge,
+use a tc. Kill the ghosts, this should be easy with the furyblade. Now turn
+around and you will see an item on an island in the water. There is a narrow 
+path leading to it, just be carefull, you'll be ambushed by 3 ghosts. The item
+is a firekeeper soul. Now head back and go up the stairs.
+
+When you reach the top you'll get ambushed by 2 ghosts, get used to this, it 
+happens all the time around here, anyway just follow the path.
+
+When you get inside again, you'll see a ghost in the distance, don't go there 
+yet, first kill the ghost on your left, then walk in and be ambushed by 4 
+this time.
+
+When the ghosts are toast, continue and go down the stairs, at the end of the 
+path, take the parrying dagger guarded by a ghost in the wall, move back and
+turn left. Follow the path, past the fog, killing ghosts as you go, and take
+the 2 tc. Now go through the fog.
+
+Go up the stairs, kick down the ladder, take the soul of a nameless soldier,
+and kill the ghost on the roof.
+
+From the item, go back and turn right, at the split, go left down the stairs.
+
+When you reach the door, wait a while, a lot of ghosts will attack you, be
+carefull and take them out. Now go inside.
+
+Go left, down the stairs and follow the path to get a cursebite ring, a lot of
+ghosts will follow you on the way there, so deal with them.
+
+Now go back all the way to the entrance of the building. Go to the door on your
+left, and through the door in front. and take the soul of a proud knight.
+
+Turn around and move back, now take the door to your right, again you'll be
+ambushed by some ghosts.
+
+When they're gone, go into the fireplace and climb the ladder, on the roof,
+talk to Igward, With the lordvessel, he'll give you the key to the seal.
+He will also sell you the resist curse sorcery and remove your curse if 
+you are cursed.
+
+Go back down and back to the entrance of the building. Before exiting, go right
+down the stairs, and this time go left through the door we walked past earlier.
+
+Go down the stairs to the left first to take the green titanite shard.
+
+Turn around, up the stairs and take the large soul of a nameless soldier.
+
+Continue the path and go up the staiors to your right and take the humanity.
+
+Now go down and enter the tower. Go upstairs first to take the composite bow 
+and 16 large arrows. Go back downstairs, all the way, go through the gate and
+pull the lever.
+
+Pull the lever just outside the gate to make an elevator come up.
+
+Take it down, walk outside and kill the knight that comes running. These guys 
+really annoying, they're aggressive, hit hard and have a magic shield and an
+AOE attack, luckily they are also easily backstabbed.
+
+When you're done playing, go through the door on your left and up the stairs.
+
+Follow the path untill you come to a hut, go in and when you take the large 
+soul of a proud knight, another knight will attack you, lure him back to the
+open area and waste him.
+
+Continue inside and go through the fog. In this room are 2 knights and a giant
+blob, first lure out the knights one by one, just listen, you'll alert the 
+first one by just walking inside, you can hear him coming, for the second one 
+turn left.
+
+The blob is on the right, lure him with you, he can't go outside the room, so
+just lock on and start shooting.
+
+When it's gone go inside the building, but look out, the blob may have spawned
+red glowing skulls, which explode when you get close enough, they are easily 
+avoided by just moving back.
+
+Inside move right, be carefull, in the last hut to the right is another knight.
+
+In the back, take the humanity, and go through the right door.
+
+Follow the path to get a soul of a brave warrior, turn around and before going 
+down the stairs, turn left. Follow the path and go up the stairs, this takes
+you to a chest with the very large ember. Give this to Andre and you can 
+upgrade standard weapons to +15. Now go back to the blob room.
+
+The other door takes you back upstairs, to the area with th first ghost ambush,
+so go past the huts and through the door on the right.
+
+In this area, be very carefull, there are a lot of knights here and you don't
+want to be surrounded by them, keep your shield up and your eyes open at all
+times.
+
+First go left and take the large soul of a proud knight, keep going forward.
+
+From the stairs, go left and take the 6 cracked red eye orb,
+  
+On the stairs, take the large soul of a proud knight, and enter the building.
+
+Inside are 2 knights and a blob, take them out. In the back of this room on
+the right side is a chest with a titanite chunk, take it, go through the door
+on the other side and through the fog.
+
+Now equip the covenant of artorias ring, set iron flesh in your castbox and
+go down the stairs. Fall down at the end.
+
++Boss+ Four Kings
+
+As soon as you hit the floor, the fight will start, but don't do anything yet.
+
+Turn the camera around untill you see a figure coming toward you.
+
+Run to it and when you get near, cast iron flesh. Now just start whacking.
+
+As the name sort of implies, there are 4 of these guys, they will come at you
+with a little time in between, so the key here is to get rid of them as soon
+as you can, just ignore all of their attacks, they don't really hurt, just keep
+attacking.
+
+If something goes wrong and you are surrounded by more than 2 at once, just
+stay up against the one you are locked on to and the other ones won't really 
+bother you.
+
+If you can't beat them because their attacks stagger you too much to have the 
+time needed to take them out quickly, consider equipping havel's armor set
+to raise your poise insanely.
+
+For killing them you get 60k souls and the Bequeated lord soul shard.
+
+For another video check this link:
+
+http://www.youtube.com/watch?v=jtgCunjJmfk
+
+-Wassim Rachwani wrote:
+Four kings : I just equipped havels set, with combustion and great combustion 
+set, ran up close and hugged it as close as possible ( make sure you run as 
+much as you can when it spawns, as you dont want to be still running to it when
+it begins attacking. This is, esseantially, the most important part of the 
+fight, just get up close and spam those combustions and you should kill it 
+quick enough that you actually have to wait for the others to respawn) 
+
+creds to Wassim for this-
+
+If you haven't taken the Lordvessel to the fire altar with the help of Frampt
+yet, Darkstalker Kaathe will appear next to the bonfire. If you take the
+lordvessel to the fire altar with his help, you get to join the darkwraith 
+covenant and get the dark hand, needed for the trophy. If you give him 30
+humaniy you'll get the armor and sword the knights around here have, you don't
+need this for the trophy though. Anyway, what you do is up to you, but know
+that if you join this covenant, Frampt will get angry and disappear.
+
+When you are done here teleport back to firelink and go to andre to give him
+the very large ember and upgrade the composite bow as far as possible.
+
+If you need titanite shards or large titanite shards, teleport to Anor Londo,
+and walk back to the yellow ring, to fly back to Sen's Fortress, from here, go
+to the merchant and buy them. Also, while you are at Andre, make sure to get a
++5 divine weapon, first upgrade a weapon to +5, then modify it into divine,
+this takes green titanite shards, sold by the mechant at Sen's.
+
+At firelink, make absolutely sure the Lordvessel is placed at the fire altar,
+either through Frampt or Kaathe, buy everything from Petrus if you haven't 
+already and kill him. We will meet our next miracle seller before we get back
+to firelink, and if Petrus is still alive after we beat the next lord, and 
+before we get back to firelink, he will kill her.
+
+Go down to the firekeeper to upgrade your estus with the firekeeper soul from
+New Londo.
+
+Also attune the cast light sorcery and make sure you have a catalyst, any will
+do. We don't need it quite yet, but it's easy to forget and it's a long walk
+from the last bonfire before the area we do need it.
+
+Now go to the skeleton graveyard, they are easy to kill by now. Collect all the
+items, equip your divine weapon and go into....
+
+++++The Catacombs++++ [thcat1]
+
+The skeletons in here aren't much stronger than their counterparts outside, but
+if you kill them with anything other than a divine weapon, they'll just come
+back to life.
+
+When you enter, be carefull, there will be exploding skulls floating around the
+stairs, they can knock you off.
+
+Proceed down, taking out the skellies, untill you get to the bottom and a hole 
+the wall to your left.
+
+Enter to find a sorcerer, a lever and a bonfire. These sorcerers are the ones 
+reviving the skeletons. If you take one out, the skeletons in the area will
+no longer come back to life, but since I'm not sure where the boundaries are
+between the areas, let's just keep our divine weapon untill the boss.
+
+When you are done with the bonfire, pull the lever and proceed.
+
+When you get outside, you can see the next sorcerer on a ledge in the distance,
+snipe him and follow the path, killing the skellies. Cross the bridge into
+a cave area.
+
+Just go around the only path you can take, untill you reach the archer, again,
+killing the skellies as you go.
+
+When you get to the archer, take it and the other skeleton out and take the
+large soul of a nameless soldier.
+
+Take the path outside and follow it all the way to the back to take the soul of
+a proud knight, now move back a little and push the lever you just passed.
+
+If you move further back, you'll have created a bridge with 2 skeletons and a 
+sorcerer inside the cave, do what you have to. If you go right here, and drop
+down the hole you'll come to a room with a lizard, follow the path to a ladder 
+leading to another drop, this takes you back outside, near the lever.
+
+Go back into the cave and go straight this time, go down the stairs, kill the 
+skelly in the room to your right, and continue down. Take the soul of a proud 
+knight from the second room, and another soul of a proud knight from the third.
+
+From the third room, search for the stairs further down and go into the fourth
+room, with another sorcerer and another lever, push it.
+
+This opens the gate you probably saw next to the third room, if you continue
+down from the room with the lever, you'll eventually come to another blacksmith
+who will create a shortcut to the next boss, but we don't have any business 
+with him for now, so let's just go through the gate.
+
+If you go straight here, be carefull, it's a very short stairs. If you pan the 
+camera a little, you'll see a piece of land below you. Jump down and look left
+to find the great scythe. Jump down again and you'll be back at the last lever 
+you pulled.
+
+Go up, through the gate and left this time, 
+
+When you get outside, to your right you'll see a fog gate you can't get to,
+to your left is a fake wall with a bonfire, go there first. Back outside from 
+the bonfire, to your left is a ladder, climb it to reach a lever that creates
+a bridge to the fog.
+
+Now go back down and through the fog.
+
+Go down and kill the skellies, to your left you will see a door leading ouside,
+You'll also see a wall that is missing a few bricks, hit it and go through.
+
+Drop down and kill everything, at the end of the path is the darkmoon seance
+ring, take it. If you turn around, to your left will be a hole in the wall, go
+through it to reach another sorcerer.
+
+When you get to the room where you can jump back down to where you came from,
+look right and climb the ladder, this takes you to the tranquil walk of peace
+miracle. Don't drop down the hole or you'll have to go through most of the area
+again.
+
+Instead go back down the ladder and jump down to where you came from, go
+outside and follow the path and go into the large room.
+
+In the back of this room is another lightning demon, kill it. It guarded 3
+eyes of death. With this we can join the Gravelord servant covenant.
+You'll get the Gravelord Sword(for the trophy) and the gravelord sword dance
+miracle upon joining, and the gravelord greatsword dance miracle after giving
+10 eyes of death. They can be farmed from the curse frogs, we'll be able to buy
+3 more in the near future, but will have beaten the gravelord by then, so you
+might want to postpone this untill NG+.
+
+Anyway, here's how to join. A little bit back and to your right will be an open
+coffin. If you lay in there for a while, you'll be taken to Nito, talk to him
+to join. After joining, go back to the coffin to get back to the catacombs.
+
+Walk back a little and go through the hole in the wall, take the large soul of
+a nameless soldier and kill the skellies that came up the ladder. Go down it.
+
+From here, try to approach the large coffin and drop into a hole. You'll be
+ambushed by a black knight who drops a white titanite chunk, also take the soul
+of a proud knight and jump down into a cartwheel infested area.
+
+When you are done killing the cartwheels continue the path and go through the
+fog, equip your furysword and prepare for an insanely difficult battle.
+
++Boss+ Pinwheel
+
+Sorry, I was just kidding about the difficult part, This guy will create 
+copies of himself and teleport around the room, but honestly, if you die
+here at this point in the game, you're doing something wrong.
+
+Just run up to him and start attacking, he'll go down in only a few swipes.
+
+For beating him you get 15000 souls, the rite of kindling, which allows you to
+kindle bonfires up to giving 20 estus and he will drop a mask of either the
+father, mother or child.
+
+For a video on how to do this, check:
+
+http://www.youtube.com/watch?v=qGYGUnVpxBg&feature=plcp
+
+Go up the stairs on the right and follow the path.
+
+++++Tomb of the Giants++++ [tomgi1]
+
+Before we start, I hate this area. Therefore, this guide will take you to the
+important items and the easy to reach ones, but I won't go out of my way to
+get everything. If you want the items I don't mention, you're on your own.
+
+When you get up the stairs you'll notice that it's really dark here, so equip
+a catalyst and cast cast light to be able to see a little better.
+
+Before you go to the glowing orb, go left across the roof into a cave to get
+a soul of a proud knight.
+
+Now go to the orb and follow the path. The giant skelleton is easily taken down
+with fire orb, so get to it.
+
+Continue the path, go down the 2 coffins and kill the 2 giants. Follow the path
+and you'll see a guy, don't talk to him yet, go left first.
+
+Go down the ladder and activate the bonfire, kindle it all the way up to 20
+and go back up the stairs, go right untill you reach a square hole, drop down
+and before you drop further, cast iron flesh. There are 6 giants here, take 
+them out and take the soul of a brave warrior and the large divine ember.
+Take this to Andre and he will upgrade your divine weapon to +10. Now head
+back to the bonfire.
+
+From here, go up to the guy we didn't talk to yet, this is Patches, if you
+played Demon's Souls, you'll have an idea what's about to happen.
+
+When he asks if you are a cleric say no, or he'll turn hostile, agree to look
+down and.....
+
+You son of a crackwhore!
+
+Anyway, take the 2 large soul of a proud knight and the skull lantern, if you
+don't have cast light, use this to see. Walk around a bit to find Rhea of
+Thorolund, who will tell you about 2 hollows walking around here, they are not 
+too tough so kill them. Rhea will give you the replenishment miracle if you
+talk to her and will be at Undead Parish near where the firekeeper soul was
+after beating the next boss.
+
+When that's done follow the path forward and out of here, the pillar looking 
+things are easily taken down by approaching them, baiting them to attack,
+back off and when the attack ends slash them, repeat untill they die.
+
+Go up the ladder and turn right, you'll recognize the area, rest at the 
+bonfire, and return to Patches. Now, I know what you want to do, but don't
+do that, yet, after beating this area's boss he will be at firelink to sell
+some things we want, after buying that we'll kill him. For now just agree with
+him that you're both jolly undead, whatever that means.
+
+Follow the path to meet a new friend, giant doggies or whatever they are, just
+fire orb them. They are pretty nasty to take on with your sword.
+
+Go through the fog, but be carefull, you'll be ambushed by a black knight while
+an archer is shooting you, lure him back and take him out. He'll drop a white
+titanite chunk. In this area there are also 2 dogs, kill them and the archer,
+then take the soul of a brave warrior.
+
+-in patch 1.05 the black knight is moved to guarding the effigy shield-
+
+If you jump down here, you'll come to a ledge with the silver serpent's ring
+but you'll need to teleport back to the bonfire or die to get back from it.
+
+From the archer, go down the slope and go right to reach the effigy shield,
+again needed for the trophy, go back and through the other archway.
+
+Go down the slope and kill the giant and the dog. Turn left, stay on the left 
+wall and turn left again to reach a bonfire. If you need to, reverse your 
+hollowing to meet another black phantom ahead.
+
+From the bonfire, go down the slope, take the white titanite chunk and kill 
+those pooches.
+
+Follow the path down and go down the ladder, again, follow the only path you
+can take, untill you get a message you are invaded, go back to the area without
+the possibility to fall of the edge and wait for Leeroy, kill him to get 1
+point of humanity, 2 humanity items, the grant and the sanctus, both needed 
+for the trophy and 21k souls.
+
+Follow the path and kill the enemies. After killing the skeletons, things will
+get chaotic.
